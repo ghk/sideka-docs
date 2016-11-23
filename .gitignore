@@ -1,0 +1,7 @@
+src/_build/
+html/
+
+# Misc
+*.swp
+desktop.ini
+thumbs.db
