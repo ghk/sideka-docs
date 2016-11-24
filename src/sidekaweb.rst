@@ -6,7 +6,6 @@ PENGGUNAAN SIDEKA UNTUK PENGUNJUNG
 ------------------------------
 Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila firefox, google chrome, dll). Berikut adalah tampilan laman utama:
 
-.. image:: images/halamanutama.png
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+.. image:: images/sidekaweb/halaman-utama.png
+   :alt: Halaman Utama Sideka
+   :align: center
