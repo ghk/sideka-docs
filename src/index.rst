@@ -10,8 +10,8 @@ kawaldesa.org
 .. _user-docs:
 .. toctree::
 
-    overview
-    help
+    sidekaweb
+    sidekadesktop
 
 
 
