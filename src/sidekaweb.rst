@@ -7,9 +7,4 @@ PENGGUNAAN SIDEKA UNTUK PENGUNJUNG
 Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila firefox, google chrome, dll). Berikut adalah tampilan laman utama:
 
 .. image:: images/sidekaweb/halaman-utama.png
-    :width: 200px
-    :align: center
-    :height: 100px
-    :alt: alternate text
-	
-asdasd
+   :alt: map to buried treasure
