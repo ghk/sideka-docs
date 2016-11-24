@@ -57,3 +57,54 @@ Berikut Tampilan Dashboard Adminisitrator jika telah sukses login:
 
 2.2 Lupa Password
 ---------------------
+Kehilangan password atau lupa password dapat mengklik “kehilangan password Anda?” pada halam login atau seperti berikut:
+
+.. figure:: images/sidekaweb/lupa-password.png
+   :alt: Halaman Lupa Password
+   :align: center
+
+   Gambar 5 Halaman Lupa Password
+
+Selanjutnya, masukan email pada form  **“Halamana Pengguna Atau Email”** dan klik **“Dapatkan Password Baru”** atau seperti berikut:
+
+.. figure:: images/sidekaweb/dapat-password.png
+   :alt: Form Lupa Password
+   :align: center
+
+   Gambar 6 Form Lupa Password
+
+Password akan dikirimkan melalui email yang berisi link untuk merubah password.
+
+2.3 Posting berita
+------------------
+Klik menu Pos pada dashboard sideka admin, dan klik **“Tambah Baru”** untuk membuat posting atau berita baru seperti yang ditunjukan pada gambar berikut:
+
+.. figure:: images/sidekaweb/buat-berita-baru.png
+   :alt: Menu Membuat Berita Baru
+   :align: center
+
+   Gambar 7 Menu Membuat Berita Baru
+
+Halaman akan langsung di alihkan ke halaman berikut:
+
+.. figure:: images/sidekaweb/form-buat-berita.png
+   :alt: Form Pembuatan Berita Baru
+   :align: center
+
+   Gambar 8 Form Pembuatan Berita Baru
+
+Masukan judul berita dan isi Berita, selanjutnya pilih kategori berita seperti yang ditunjukan pada gambar berikut:
+
+.. figure:: images/sidekaweb/form-kategori-berita.png
+   :alt: Form Kategori Berita
+   :align: center
+
+   Gambar 9 Kategori Berita
+
+Centang kotak yang terdapat di sebelah kategori berita. Selanjutnya klik “Buat Gambar utama” untuk menambahkan gambar pada posting berita, berikut tampilannya:
+
+.. figure:: images/sidekaweb/pilih-gambar-utama.png
+   :alt: Pemilihan Gambar Utama
+   :align: center
+
+   Gambar 10 Pemilihan Gambar Utama
