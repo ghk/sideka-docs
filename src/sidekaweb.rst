@@ -9,7 +9,7 @@ Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila 
    :alt: Halaman Utama Sideka
    :align: center
 
-Gambar 1 Halaman Utama Sideka
+   Gambar 1 Halaman Utama Sideka
 
 Pada halaman utama sideka terdapat menu utama yaitu:
 
@@ -36,17 +36,24 @@ Buka domain nama desa yang telah dibuat pada browser,contoh http://namadesa.desa
 .. figure:: images/sidekaweb/log-masuk.png
    :alt: Log Masuk
    :align: center
-
-Gambar 2 Log Masuk Sideka.
+   
+   Gambar 2 Halaman Log Masuk Sideka.
 
 Pengguna Dapat juga mengakses dengan memasukan domain dan di tambahkan “/wp-admin” atau “/wp-login” sebagai contoh: “http://namadomain.desa.id/wp-admin”. Selanjutnya  masukan username dan password pada halaman form login dan klik “Log Masuk” untuk login, berikut Tampilannya:
 
 .. figure:: images/sidekaweb/administrator-form-login.png
    :alt: Form Login Aministrator
    :align: center
+   
+   Gambar 3 Halaman Form Login Administrator
 
 Berikut Tampilan Dashboard Adminisitrator jika telah sukses login:
-
+ 
 .. figure:: images/sidekaweb/dashboard-administrator.png
    :alt: Dashboard Administrator
    :align: center
+
+   Gambar 4 Halaman Dashboard Administraor
+
+2.2 Lupa Password
+---------------------
