@@ -1,503 +1,450 @@
-PENGGUNAAN SIDEKA UNTUK PENGUNJUNG
-==================================
+Installasi aplikasi sideka
+==========================
+Untuk installasi sideka download terlebih dahulu aplikasi sideka di http://sideka.id, dan klik  **“unduh sekarang”** beikut tampilannya: 
 
-1.1 Halaman Utama Web Desa
-------------------------------
-Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila firefox, google chrome, dll). Berikut adalah tampilan laman utama:
-
-.. figure:: images/sidekaweb/halaman-utama.png
-   :alt: Halaman Utama Sideka
-   :align: center
-
-   Gambar 1 Halaman Utama Sideka
-
-Pada halaman utama sideka terdapat menu utama yaitu:
-
-**a. Beranda**
-     Beranda berisi ringkasan tentang postingan berita dengan 3 kategori, yaitu kabar desa, produk dan potensi desa. 
-**b. Profil Desa**
-     Pada menu Profil Desa berisi sub menu Sejarah desa dan Lembaga Desa, sub menu sejarah desa menjelaskan sejarah desa terbentuk dan lembaga desa berisi lembaga lembaga yang        terdapat di desa.
-**c. Kabar Desa**
-     Kabar Desa Berisi Berita yang telah di posting, berisikan berita-berita tentang kejadian atau informasi dari desa.
-**d. Produk**
-   Menu produk desa berisikan semua postingan berita yang berhubungan dengan produk desa atau postingan dengan kategori produk desa.
-**e. Potensi**
-     Menu potensi desa berisikan postingan berita yang berhubungan dengan potensi yang terdapat desa.
-**f. Kependudukan**
-     Menu kependudukan berisi statistika Penduduk dengan berdasarkan data penduduk yang terdapat pada desa.
-
-SIDEKA ADMINISTRATOR
-====================
-
-2.1 Login Wordpress
--------------------
-Buka domain nama desa yang telah dibuat pada browser,contoh http://namadesa.desa.id lalu klik **“Log Masuk”** pada halaman paling bawah sideka atau seperti gambar beikut:
-
-.. figure:: images/sidekaweb/log-masuk.png
-   :alt: Log Masuk
+.. figure:: images/sidekadesktop/download-sideka-desktop.png
+   :alt: Halaman Download Sideka Desktop
    :align: center
    
-   Gambar 2 Halaman Log Masuk Sideka.
+   Gambar 1 Halaman Download Sideka Desktop.
 
-Pengguna Dapat juga mengakses dengan memasukan domain dan di tambahkan “/wp-admin” atau “/wp-login” sebagai contoh: “http://namadomain.desa.id/wp-admin”. Selanjutnya  masukan username dan password pada halaman form login dan klik “Log Masuk” untuk login, berikut Tampilannya:
+Double klik aplikasi sideka yang telah di download, aplikasi akan langsung terbuka dan membuat shortcut pada desktop. berikut tampilan aplikasi sideka:
 
-.. figure:: images/sidekaweb/administrator-form-login.png
-   :alt: Form Login Aministrator
+.. figure:: images/sidekadesktop/halaman-utama-sideka-desktop.png
+   :alt: Halaman Utama Sideka Desktop
    :align: center
    
-   Gambar 3 Halaman Form Login Administrator
+   Gambar 2 Halaman Utama Sideka Desktop.
 
-Berikut Tampilan Dashboard Adminisitrator jika telah sukses login:
- 
-.. figure:: images/sidekaweb/dashboard-administrator.png
-   :alt: Dashboard Administrator
+Untuk membuka kembali sideka dapat meng-klik shortcut aplikasi sideka pada desktop.
+
+Login
+=====
+Untuk dapat login sideka desktop, username dan password yang digunakan sama dengan username dan password untuk login ke sideka wordpress.  Berikut tampilan halaman login sideka desktop: 
+
+.. figure:: images/sidekadesktop/login-sideka-desktop.png
+   :alt: Login Sideka Desktop
+   :align: center
+   
+   Gambar 3 Login Sideka Desktop
+
+Masukan username dan password, dan klik **“log masuk”** untuk login, jika lupa password dapat mengklik **“Kehilangan password Anda?”**, berikut halaman utama sideka jika berhasil login:
+
+.. figure:: images/sidekadesktop/halaman-administrator-sideka-desktop.png
+   :alt: Halaman Administrator Sideka Desktop
+   :align: center
+   
+   Gambar 4 Halaman Administrator Sideka Desktop.
+
+Pengelolan data penduduk
+========================
+Untuk Masuk Ke menu Pengelolaan data penduduk Klik menu “Data Penduduk” pada halaman utama sideka, Berikut Tampilah Halaman Pengelolaan Data Penduduk:
+
+.. figure:: images/sidekadesktop/halaman-pengelolaan-kependudukan.png
+   :alt: Halaman Pengelolaan Kependudukan
+   :align: center
+   
+   Gambar 5 Halaman Pengelolaan Kependudukan. 
+
+.. |home| image:: images/sidekadesktop/home.png    
+   :scale: 50%
+   :align: center
+.. |tambah| image:: images/sidekadesktop/tambah.png
+   :scale: 50%
+   :align: center
+.. |simpan| image:: images/sidekadesktop/simpan.png
+   :scale: 50%
+   :align: center
+.. |surat| image:: images/sidekadesktop/surat.png
+   :scale: 50%
+   :align: center
+.. |undo| image:: images/sidekadesktop/undo.png
+   :scale: 50%
+   :align: center
+.. |redo| image:: images/sidekadesktop/redo.png
+   :scale: 50%
+   :align: center
+.. |cut| image:: images/sidekadesktop/cut.png
+   :scale: 50%
+   :align: center
+.. |copy| image:: images/sidekadesktop/copy.png
+   :scale: 50%
+   :align: center
+.. |paste| image:: images/sidekadesktop/paste.png
+   :scale: 50%
+   :align: center
+.. |import| image:: images/sidekadesktop/import.png
+   :scale: 50%
+   :align: center
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
    :align: center
 
-   Gambar 4 Halaman Dashboard Administraor
+|home| : Tombol Kembali ke halaman Administrator 
 
-2.2 Lupa Password
----------------------
-Kehilangan password atau lupa password dapat mengklik “kehilangan password Anda?” pada halam login atau seperti berikut:
+|tambah| : Untuk menambahkan baris baru 
 
-.. figure:: images/sidekaweb/lupa-password.png
-   :alt: Halaman Lupa Password
-   :align: center
+|simpan| : Untuk Menyimpan Data Penduduk 
 
-   Gambar 5 Halaman Lupa Password
+|surat| : Untuk Membuat Surat
 
-Selanjutnya, masukan email pada form  **“Halaman Pengguna Atau Email”** dan klik **“Dapatkan Password Baru”** atau seperti berikut:
+|undo| : Undo / Mengembalikan Data ke sebelum di edit 
 
-.. figure:: images/sidekaweb/dapat-password.png
-   :alt: Form Lupa Password
-   :align: center
+|redo| : Redo / Mengembalikan Data ke setelah di edit
 
-   Gambar 6 Form Lupa Password
+|cut| : Cut / Memindahkan Data yang dipilh
 
-Password akan dikirimkan melalui email yang berisi link untuk merubah password.
+|copy| : Copy / Menggandakan data yang dipilih 
 
-2.3 Posting berita
-------------------
-Klik menu Pos pada dashboard sideka admin, dan klik **“Tambah Baru”** untuk membuat posting atau berita baru seperti yang ditunjukan pada gambar berikut:
+|paste| : Paste / menempelkan data hasil cut atau copy 
 
-.. figure:: images/sidekaweb/buat-berita-baru.png
-   :alt: Menu Membuat Berita Baru
-   :align: center
+|import| : Import Excel
 
-   Gambar 7 Menu Membuat Berita Baru
+|export| : Export Excel
 
-Halaman akan langsung di alihkan ke halaman berikut:
-
-.. figure:: images/sidekaweb/form-buat-berita.png
-   :alt: Form Pembuatan Berita Baru
-   :align: center
-
-   Gambar 8 Form Pembuatan Berita Baru
-
-Masukan judul berita dan isi Berita, selanjutnya pilih kategori berita seperti yang ditunjukan pada gambar berikut:
-
-.. figure:: images/sidekaweb/form-kategori-berita.png
-   :alt: Form Kategori Berita
-   :align: center
-
-   Gambar 9 Kategori Berita
-
-Centang kotak yang terdapat di sebelah kategori berita. Selanjutnya klik “Buat Gambar utama” untuk menambahkan gambar pada posting berita, berikut tampilannya:
-
-.. figure:: images/sidekaweb/pilih-gambar-utama.png
-   :alt: Pemilihan Gambar Utama
-   :align: center
-
-   Gambar 10 Pemilihan Gambar Utama Berita
-
-Halaman akan langsung di alihkan ke halaman gambar fitur untuk pemilihan foto, klik “Pilih Berkas Untuk” Mengunggah foto, seperti yang ditunjukan pada gambar berikut:
-
-.. figure:: images/sidekaweb/form-pilih-berkas.png
-   :alt: Form Pemilihan Berkas
-   :align: center
-
-   Gambar 11 Form Pemilihan Berkas
-
-selanjutnya klik pilih gambar yang disimpan lalu klik **“open”** untuk memilih gambar, selanjutnya centang pada gambar yang telah kita pilih dan klik “Buat Gambar Utama” atau seperti gambar berikut:
-
-.. figure:: images/sidekaweb/browse-gambar.png
-   :alt: Pemilihan gambar pada local directory / Media
-   :align: center
-
-   Gambar 12 Pemilihan gambar pada local directory / Media
-
-Jika form sudah terisi semua selanjutnya klik Terbitkan untuk menerbitkan berit atau seperti gambar berikut:
-
-
-.. figure:: images/sidekaweb/form-penerbitan-berita.png
-   :alt: Form Penerbitan Berita
-   :align: center
-
-   Gambar 12 Form Penerbitan Berita
-
-2.4 Penyuntingan atau Editing berita
+1.1 Import dan Export  data penduduk
 ------------------------------------
-Penyuntingan Berita Memiliki 2 cara yaitu dengan Sunting Biasa atau Sunting Cepat, pada sunting berita dengan Sunting biasa halaman yang ditampilkan akan seperti membuat berita baru, sedangkan untuk sunting cepat penyuntingan berita tidak di alihkan ke halaman lain melainkan di tempat itu sendiri namun untuk isi berita dari berita tersebut tidak ditampilkan, berikut tampilan mengedit berita dengan cara **“Sunting”** atau **“Sunting Cepat”**:
 
-.. figure:: images/sidekaweb/lokasi-sunting-berita.png
-   :alt: Lokasi Penyuntingan Berita
+.. |browse| image:: images/sidekadesktop/browse.png
+   :scale: 50%
    :align: center
 
-   Gambar 13 Lokasi Penyuntingan Berita
-
-Berikut tampilan pengeditan berita dengan cara **“sunting cepat”**:
-
-.. figure:: images/sidekaweb/sunting-cepat.png
-   :alt: Penyuntingan Berita dengan "Sunting Cepat"
+.. |import| image:: images/sidekadesktop/import-berkas-excel.png
+   :scale: 50%
    :align: center
 
-   Gambar 14 Penyuntingan Berita dengan "Sunting Cepat"
+Untuk melakukan import data dapat mengklik tanda |browse| atau mengklik tanda |import| Untuk meng-import data dari Microsoft excel, lalu akan diarahkan untuk memilih berkas, berikut tampilan pemilihan berkas yang akan di import: 
 
-Jika sudah melakukan perubahan dapat meng klik “Perbarui”.
-
-2.5 Hapus berita
-----------------
-Untuk melakukan penghapusan penghapusan 1 berita dapat dilakukan dengan cara mengarahkan kursor pada berita yang akan dihapus, lalu Klik “Buang”untuk menghapus berita, untuk berita yang dihapus akan masuk ke tong sampah dan untuk melihatnya dapat mengklik “Tong Sampah” untuk melihat file seperti yang ditunjukan pada gambar berikut:
-
-.. figure:: images/sidekaweb/hapus-berita.png
-   :alt: Penghapusan 1 Berita
+.. figure:: images/sidekadesktop/pilih-berkas-data-penduduk.png
+   :alt: Halaman Pemilihan Berkas Data Penduduk
    :align: center
+   
+   Gambar 6 Halaman Pemilihan Berkas Data Penduduk.
 
-   Gambar 15 Penghapusan 1 Berita
+Pilih berkas yang akan di import dan klik open untuk mengimport berkas, berikut adalah hasil import dari excel: 
 
-Untuk melakukan lebih dari 1 berita dapat dilakukan dengan cara, Centang kotak yang berada di samping judul berita, lalu klik **“Tindakan Massal”** selanjutnya pilih **“Pindahkan Ke Tong Sampah”** dan klik **“Terapkan”** untuk Menghapus Berita.
-
-.. figure:: images/sidekaweb/hapus-massal.png
-   :alt: Penghapusan 1 Berita
+.. figure:: images/sidekadesktop/tabel-data-penduduk.png
+   :alt: Tabel Data Penduduk
    :align: center
+   
+   Gambar 7 Tabel Data Penduduk.
 
-   Gambar 16 Penghapusan 1 Berita
+Jika sudah melakukan Import data Klik “Simpan” untuk menyimpan data atau berkas.
+Data yang telah di import dapat di export  kembali menjadi file dengan format .xlsx, untuk meng- export dapat mengklik tanda |export| yang terdapat pada bagian atas, dan akan muncul halaman untuk menyimpan file seperti berikut:
 
-2.6 Pencarian berita
+.. figure:: images/sidekadesktop/simpan-data-penduduk.png
+   :alt: Halaman Penyimpanan Berkas Data Penduduk
+   :align: center
+   
+   Gambar 8 Halaman Penyimpanan Berkas Data Penduduk.
+
+Masukan nama file, dan klik **“Save”** untuk menyimpan file
+
+1.2 Tambah data penduduk
 ------------------------
-Untuk pencarian berita, buka menu pos pada halaman admin dan masukan kata kunci pada kolom pencarian lalu klik **“cari pos”** untuk mencari.
 
-.. figure:: images/sidekaweb/cari-berita.png
-   :alt: Form Pencarian Berita
+Untuk menambahkan data penduduk dapat mengklik tanda **"tambah"**  dan baris akan muncul atau seperti berikut: 
+
+.. figure:: images/sidekadesktop/tambah-baris-data-penduduk.png
+   :alt: Halaman Penambahan Baris Data Penduduk
    :align: center
+   
+   Gambar 9 Halaman Penambahan Baris Data Penduduk.
 
-   Gambar 17 Form Pencarian Berita
+Masukan data pada kolom yang kosong atau mucul, dan klik **"simpan"** untuk menyimpan data yang telah ditambahkan. 
 
-2.7 Tambah kategori berita
---------------------------
-Penambahan kategori berita dapat dilakukan pada menu **“Pos”** dengan sub menu **“kategori”**, masukan nama kategori, slug, induk dan deskripsi. Pengisian Form cukup memasukan nama dan slug, klik “tambah Kategori Baru” untuk menyimpan kategori yang telah dibuat, Berikut tampilannya:
+Selain menambahkan data penduduk, data penduduk yang telah ditambahkan dapat dihapus dengan cara blok baris yang akan di hapus lalu klik kanan pada baris tersebut dan klik **“remove row”** untuk menghapus berikut tampilannya: 
 
-
-.. figure:: images/sidekaweb/tambah-kategori-baru.png
-   :alt: Penambahan Kategori Berita
+.. figure:: images/sidekadesktop/hapus-baris-data-penduduk.png
+   :alt: Halaman Hapus Baris Data Penduduk
    :align: center
+   
+   Gambar 10 Halaman Hapus Baris Data Penduduk.
 
-   Gambar 18 Penambahan Kategori Berita
-
-2.8 Membuat halaman
+1.3 Pembuatan surat
 -------------------
-Untuk membuat Halam klik “Laman” di menu administrator, lalu klik “Tambah Baru” atau seperti berikut ini:
 
-.. figure:: images/sidekaweb/buat-halaman-baru.png
-   :alt: Form Pembuatan Halaman Baru
+Pembuatan surat dapat di lakukan dengan cara mengklik data penduduk yang akan dibuatkan surat, dan klik **"surat"** untuk pembuatan surat, berikut tampilannya: 
+
+.. figure:: images/sidekadesktop/cetak-surat.png
+   :alt: Halaman Cara Cetak Surat
+   :align: center
+   
+   Gambar 11 Halaman Cara Cetak Surat.
+
+Halaman akan langsung di alihkan ke penyimpanan berkas seperti berikut: 
+
+.. figure:: images/sidekadesktop/browse-cetak-surat.png
+   :alt: Halaman Cetak Surat
+   :align: center
+   
+   Gambar 12 Halaman Cetak Surat.
+
+Masukan nama file dan klik **“save”** untuk menyimpan berkas. 
+
+1.4 Filtering dan pencarian data penduduk
+-----------------------------------------
+
+Untuk Filtering memiliki 2 cara, cara yang pertama dapat  mengklik  tombol ktp, kontak, keluarga atau kompetensi yang terdapat pada bagian atas. Berikut tampilan untuk filtering berdasarkan kontak: 
+
+.. figure:: images/sidekadesktop/tombol-filtering.png
+   :alt: Halaman Filering Dengan Tombol
+   :align: center
+   
+   Gambar 13 Halaman Filering Dengan Tombol.
+
+Cara yang kedua yaitu dapat mengklik pada kolom header, berikut contoh dalam melakukan filter berdasarkan no kepala keluarga yang sama: 
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom.png
+   :alt: Filtering Data Penduduk Dengan Kolom
+   :align: center
+   
+   Gambar 14 Filtering Data Penduduk Dengan Kolom.
+
+Klik sama dengan dan isi value dengan no kk yang akan di filter dan klik “saring”, berikut hasil dan contohnya:
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom-samadengan.png
+   :alt: Filtering Kolom dengan "sama dengan"
+   :align: center
+   
+   Gambar 15 Filtering Kolom dengan "sama dengan".
+
+Untuk melakukan pencarian pada data penduduk dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
+
+.. figure:: images/sidekadesktop/cari-data-penduduk.png
+   :alt: Pencarian Data Penduduk
+   :align: center
+   
+   Gambar 16 Pencarian Data Penduduk.
+
+Pengelolaan data keluarga
+=========================
+Untuk Masuk ke menu Pengelolaan data keluarga dapat mengklik menu “Data Keluarga” pada halaman utama sideka, berikut tampilan dan penjelasan masing-masing menu pada halaman data keluarga: 
+
+.. figure:: images/sidekadesktop/kelola-data-keluarga.png
+   :alt: Halaman Pengelolaan Data Keluarga
+   :align: center
+   
+   Gambar 17 Halaman Pengelolaan Data Keluarga.
+
+.. |home| image:: images/sidekadesktop/home.png    
+   :scale: 50%
+   :align: center
+.. |simpan| image:: images/sidekadesktop/simpan.png
+   :scale: 50%
+   :align: center
+.. |kartukeluarga| image:: images/sidekadesktop/kartu-keluarga.png
+   :scale: 50%
+   :align: center
+.. |undo| image:: images/sidekadesktop/undo.png
+   :scale: 50%
+   :align: center
+.. |redo| image:: images/sidekadesktop/redo.png
+   :scale: 50%
+   :align: center
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
    :align: center
 
-   Gambar 19 Form Pembuatan Halaman Baru
+|home| : Tombol Kembali ke halaman Administrator 
 
-Isi judul laman dan form-form yang dibuthkan lalu klik “Terbitkan” untuk Menerbitkan halaman, berikut contohnya: 
+|simpan| : Untuk Menyimpan Data Keluarga
 
-Untuk membuat Halam klik “Laman” di menu administrator, lalu klik “Tambah Baru” atau seperti berikut ini:
+|kartukeluarga| : Untuk Membuat Salinan Kartu Keluarga
 
-.. figure:: images/sidekaweb/tambah-laman-baru.png
-   :alt: Penambahan Halaman Baru
-   :align: center
+|undo| : Undo / Mengembalikan Data ke sebelum di edit 
 
-   Gambar 20 Penambahan Halaman Baru
+|redo| : Redo / Mengembalikan Data ke setelah di edit
 
-2.9 Menampilkan Halaman di Menu
--------------------------------
-Untuk menampilkan halaman yang telah dibuat Klik “Tampilan” dan klik sub menu “Menu”. Untuk menampilkan Halaman ke menu, centang halaman yang telah dibuat, lalu klik “Tambahkan ke Menu” berikut Tampilannya:
+|export| : Export Excel
 
-.. figure:: images/sidekaweb/tampilkan-halaman-kemenu.png
-   :alt: Menampilkan Halaman ke Menu
-   :align: center
-
-   Gambar 21 Menampilkan Halaman ke Menu
-
-Jika Laman yang di tambahkan sudah muncul di menu, klik “simpan menu”  untuk menyimpan berikut tampilannya:
-
-.. figure:: images/sidekaweb/struktur-menu.png
-   :alt: Tampilan Struktur Menu
-   :align: center
-
-   Gambar 22 Tampilan Struktur Menu
-
-berikut adalah hasilnya:
-
-.. figure:: images/sidekaweb/hasil-tambah-halaman.png
-   :alt: Hasil Penambahan Halaman Ke Menu
-   :align: center
-
-   Gambar 23 Hasil Penambahan Halaman Ke Menu
-
-2.10 Menampilkan Posting Berkategori Ke Menu
------------------------------------------------
-Untuk membuat menu baru dengan halaman yang berisikan posting berita dengan kategori yang telah dibuat yaitu:
-
-* Buat kategori berita seperti pada sub bab “Tambah Ketgori Berita”
-* Buat berita seperti pada sub menu “Posting Berita” dan tambahkan dengan kategori yang telah dibuat sebelumnya.
-* Berikut adalah langkah terakhir untuk menambahkan ke menu:
-
-.. figure:: images/sidekaweb/tambah-kategori-berita-kemenu.png
-   :alt: Penambahan Kategori Berita Ke Menu
-   :align: center
-
-   Gambar 24 Penambahan Kategori Berita Ke Menu
-
-2.11 Mengatur komentar
-----------------------
-Jika Moderasi Komentar aktif maka setiap komentar yang masuk tidak langsung ditampilkan, tetapi komentar akan masuk terlebih dahulu untuk mendapat persetujuan dari administrator. Untuk mengatur komentar satu persatu arahkan kursor ke komentar sampai menu muncul seperti gambar berikut:
-
-.. figure:: images/sidekaweb/moderasi-komentar.png
-   :alt: Halaman Moderasi Komentar
-   :align: center
-
-   Gambar 25 Halaman Moderasi Komentar
-
-Maksud dari menu –menu saat cursor diarahkan yaitu:
-
-* Setuju	: Untuk menyetujui pesan agar ditampilkan
-* Balas	: Untuk membalas Komentar
-* Sunting Cepat: Untuk Mengedit cepat comment
-* Sunting : Untuk Melakukan pengeditan dengan dialihkan ke halaman Pengeditan
-* Sejarah	: Untuk melihat detail pengirim komentar
-* Spam	: Penyalahgunaan komentar yang berisi iklan, undian, informasi palsu, phishing, penipuan, dan lain sebagainya dan dikirim secara beruntun.
-* Buang	: Menghapus komentar
-
-Penghapusan atau menyetujui pesan secara masal dapat dengan menandai pesan yang akan di hapus atau di setujui,  klik “tindakan massal” lalu pilih aksi yang akan dilakukan dan setelah itu pilih “terapkan” untuk menyimpan hasil, berikut contohnya:
-
-.. figure:: images/sidekaweb/tindak-komentar-massal.png
-   :alt: Penindakan Komentar Secara Massal
-   :align: center
-
-   Gambar 26 Penindakan Komentar Secara Massal
-
-2.12 Mematikan Moderasi Komentar
---------------------------------
-Mematikan moderasi komentar memungkinkan setiap orang yang mengirim komentar akan langsung di tampilkan tanpa memerlukan persetujuan dari administrator, untuk mematikan moderasi komentar unchecklist “sebuah komentar ditahan untuk moderasi”, berikut tampilannya:
-
-.. figure:: images/sidekaweb/atur-diskusi.png
-   :alt: Halaman Pengaturan Diskusi
-   :align: center
-
-   Gambar 27 Halaman Pengaturan Diskusi
-
-jika sudah menonaktifkan, scroll ke bawah dan klik “simpan perubahan” untuk menyimpan, berikut tampilannya:
-
-.. figure:: images/sidekaweb/simpan-pengaturan-diskusi.png
-   :alt: Penyimpanan Perubahan Pengaturan Diskusi
-   :align: center
-
-   Gambar 28 Penyimpanan Perubahan Pengaturan Diskusi
-
-2.13 Mengganti Logo Web
------------------------
-Untuk mengganti Logo desa caranya adalah klik “Tampilan” lalu pilih  “sesuaikan”, berikut tampilannya:
-
-
-.. figure:: images/sidekaweb/penyesuaian-tampilan.png
-   :alt: Sub Menu Penyesuaian Tampilan
-   :align: center
-
-   Gambar 29 Sub Menu Penyesuaian Tampilan
-
-Untuk mengganti header logo desa, dapat mengklik “identitas Situs”.
-
-.. figure:: images/sidekaweb/ganti-logo.png
-   :alt: Menu Penggantian Logo
-   :align: center
-
-   Gambar 30 Menu Penggantian Logo
-
-berikut tampilan untuk mengganti logo dan ikon situs:
-
-.. figure:: images/sidekaweb/halaman-ganti-logo.png
-   :alt: Halaman Penggantian Logo
-   :align: center
-
-   Gambar 31 Halaman Penggantian Logo
-
-klik menu “ganti logo” dan akan mucul pop up untuk pemilihan logo, klik  “unggah berkas” dan “pilih berkas” untuk upload logo dari local directory, jika sudah selesai centang foto yang dipilih lalu klik “pilih” berikut tampilannya:
-
-.. figure:: images/sidekaweb/pilih-logo.png
-   :alt: Pemilihan Logo Pada Media
-   :align: center
-
-   Gambar 32 Pemilihan Logo Pada Media
-
-jika file telah dipilih, akan muncul pop up “pemangkasan” gambar atau pemotongan gambar,  jika file akan di potong maka pilih “Pemangkasan” jika tidak “lewati pemangkasan” berikut tampilannya:
-
-.. figure:: images/sidekaweb/pangkas-logo.png
-   :alt: Halaman Pemangkasan Logo
-   :align: center
-
-   Gambar 33 Halaman Pemangkasan Logo
-
-Jika pemangkasan sudah dilakukan langkah selanjutnya menyimpan hasil dan menerbitkan seperti yang ditunjukan pada gambar berikut:
-
-.. figure:: images/sidekaweb/simpan-perubahan.png
-   :alt: Menu Penyimpanan Perubahan
-   :align: center
-
-   Gambar 34 Menu Penyimpanan Perubahan
-
-2.14 Menganti latar belakang
-Penggantian latar belakang masih dalam menu “Tampilan” dan sub menu “sesuaikan” seperti pada gambar awal penggantian logo, pilih “Gambar Latar Belakang” untuk penggantian background latar belakang:
-
-.. figure:: images/sidekaweb/ganti-latarbelakang.png
-   :alt: Menu Penggantian Latar Belakang
-   :align: center
-
-   Gambar 35 Menu Penggantian Latar Belakang
-
-Pilih seleksi gambar untuk memilih gambar, tampilan untuk pemilihan gambar sama seperti saat upload logo, berikut tampilannya:
-
-.. figure:: images/sidekaweb/halaman-ganti-latarbelakang.png
-   :alt: Halaman Penggantian Latar Belakang
-   :align: center
-
-   Gambar 36 Halaman Penggantian Latar Belakang
-
-2.15 Menganti warna tema
-------------------------
-Penggantian warna tema dalam menu “Tampilan” dan sub menu “sesuaikan” seperti pada gambar awal penggantian logo, pilih “Warna” untuk penggantian warna:
-
-
-.. figure:: images/sidekaweb/menu-ganti-warna.png
-   :alt: Menu Penggantian Warna
-   :align: center
-
-   Gambar 37 Menu Penggantian Warna
-
-Tipe warna digunakan untuk mengganti warna tema, dan “warna latar belakang” jika latar belakang tidak di set gambar dan klik “Simpan dan Terbitkan” untuk menyimpan, berikut tampilannya: 
-
-.. figure:: images/sidekaweb/halaman-ganti-warna.png
-   :alt: Halaman Penggantian Warna
-   :align: center
-
-   Gambar 38 Halaman Penggantian Warna
-
-2.16 Menambahkan pengguna
+1.5 Export Kartu Keluarga
 -------------------------
-Penambahan Pengguna dapat dilakukan pada menu “pengguna” dan klik “tambah pengguna” untuk menambahkan pengguna baru, berikut tampilannya:
+Untuk meng-export data keluarga menjadi file dengan ekstensi .xlsx dapat mengklik **"export"** dan akan muncul halaman untuk menyimpan file, berikut tampilannya: 
 
-.. figure:: images/sidekaweb/tambah-user.png
-   :alt: Halaman Penambahan Pengguna Baru
+.. figure:: images/sidekadesktop/simpan-berkas-data-keluarga.png
+   :alt: Halaman Penyimpanan Berkas Data Keluarga
+   :align: center
+   
+   Gambar 18 Halaman Penyimpanan Berkas Data Keluarga.
+
+Masukan nama File pada kolom file name, dan klik **“save”** untuk menyimpan file.
+
+1.6 Pembuatan Kartu Keluarga
+----------------------------
+Pembuatan Kartu keluarga tidak berbeda seperti pembuatan surat, yaitu dengan klik data penduduk lalu klik **"Kartu Keluarga"** untuk membuat Salinan kartu keluarga, berikut tampilannya:
+
+.. figure:: images/sidekadesktop/buat-kartu-keluarga.png
+   :alt: Halaman Pembuatan Kartu Keluarga
+   :align: center
+   
+   Gambar 19 Halaman Pembuatan Kartu Keluarga.
+
+Halaman penyimpanan berkas akan muncul seperti saat pembuatan surat atau export kartu keluarga, masukan file name dan klik **“save”* untuk menyimpan.
+
+1.7 Filtering Dan Pencarian Data Keluarga
+-----------------------------------------
+filtering data keluarga memiliki 2 cara yaitu dengan cara mengklik tombol semua, alamat dan sosial, berikut adalah contoh filtering kartu keluarga berdasarkan alamat: 
+
+
+.. figure:: images/sidekadesktop/tombol-filtering-data-keluarga.png
+   :alt: Filtering Tabel Data Keluarga Dengan Tombol
+   :align: center
+   
+   Gambar 20 Filtering Tabel Data Keluarga Dengan Tombol.
+
+cara yang kedua yaitu dengan cara mengklik tanda panah pada bagian samping header, berikut contoh filtering dengan menu dimulai dengan: 
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom-dimulaidengan.png
+   :alt: Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan"
+   :align: center
+   
+   Gambar 21 Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan".
+
+Berikut adalah hasilnya: 
+
+.. figure:: images/sidekadesktop/hasil-filtering-dengan-kolom-dimulaidengan.png
+   :alt: Hasil Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan"
+   :align: center
+   
+   Gambar 22 Hasil Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan".
+
+Untuk melakukan pencarian pada data keluarga dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
+
+.. figure:: images/sidekadesktop/pencarian-data-keluarga.png
+   :alt: Pencarian Data Keluarga
+   :align: center
+   
+   Gambar 23 Pencarian Data Keluarga.
+
+Pengelolaan APBDes
+==================
+Untuk melakukan pengelolaan data APBDes dapat mengklik menu “APBDes” pada halaman utama sideka. Jika apbdes belum pernah dibuat maka akan muncul halaman pembuatan apbdes seperti berikut :
+
+.. figure:: images/sidekadesktop/kelola-apbdes.png
+   :alt: Halaman Pengelolaan APBDes
+   :align: center
+   
+   Gambar 24 Halaman Pengelolaan APBDes.
+
+Klik “Buat APBDes Baru” Masukan tahun apbdes yang akan dibuat pada halaman seperti berikut: 
+
+.. figure:: images/sidekadesktop/tambah-tahun-apbdes.png
+   :alt: Halaman Penambahan Tahun Anggaran APBDes
+   :align: center
+   
+   Gambar 25 Halaman Penambahan Tahun Anggaran APBDes.
+
+Masukan tahun anggaran dan centang jika apbdes merupakan apbdes perubahan, klik “mulai buat apbdes” untuk membuat apbdes. Berikut adalah halaman awal pembuatan apbdes:
+
+.. figure:: images/sidekadesktop/kelola-data-apbdes.png
+   :alt: Halaman Pengelolaan Data APBDes
+   :align: center
+   
+   Gambar 26 Halaman Pengelolaan Data APBDes.
+
+Berikut adalah penjelasan masing-masing menu pada halaman apbdes:
+
+.. |home| image:: images/sidekadesktop/home.png    
+   :scale: 50%
+   :align: center
+.. |tambah| image:: images/sidekadesktop/tambah-apbdes.png
+   :scale: 50%
+   :align: center
+.. |simpan| image:: images/sidekadesktop/simpan.png
+   :scale: 50%
+   :align: center
+.. |surat| image:: images/sidekadesktop/surat.png
+   :scale: 50%
+   :align: center
+.. |undo| image:: images/sidekadesktop/undo.png
+   :scale: 50%
+   :align: center
+.. |redo| image:: images/sidekadesktop/redo.png
+   :scale: 50%
+   :align: center
+.. |cut| image:: images/sidekadesktop/cut.png
+   :scale: 50%
+   :align: center
+.. |copy| image:: images/sidekadesktop/copy.png
+   :scale: 50%
+   :align: center
+.. |paste| image:: images/sidekadesktop/paste.png
+   :scale: 50%
+   :align: center
+.. |import| image:: images/sidekadesktop/import.png
+   :scale: 50%
+   :align: center
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
+   :align: center
+.. |apbdes| image:: images/sidekadesktop/tahun-apbdes.png
+   :scale: 50%
    :align: center
 
-   Gambar 39 Halaman Penambahan Pengguna Baru
+|home| : Tombol Kembali ke halaman Administrator 
 
-Halaman akan langsung dialihkan seperti pada gambar berikut:
+|tambah| : Untuk menambahkan detail baru 
 
-.. figure:: images/sidekaweb/form-tambah-user.png
-   :alt: Form Penambahan Pengguna Baru
-   :align: center
+|simpan| : Untuk Menyimpan Data APBDes
 
-   Gambar 40 Form Penambahan Pengguna Baru
+|surat| : Untuk Membuat Surat
 
-Saat menambahkan pengguna, wajib menambahkan nama, surel (e-mail), pilih Role pengguna, dan selesai, Password akan dikirmkan ke pengguna baru melalui email yang telah di daftarkan.
+|undo| : Undo / Mengembalikan Data ke sebelum di edit 
 
-2.17 Mengatur jumlah berita yang ditampilkan
---------------------------------------------
-Untuk mengatur jumlah berita yang tampil dapat diatur dengan cara berikut:
+|redo| : Redo / Mengembalikan Data ke setelah di edit
 
-.. figure:: images/sidekaweb/pengaturan-membaca.png
-   :alt: Halaman Pengaturan Membaca
-   :align: center
+|cut| : Cut / Memindahkan Data yang dipilh
 
-   Gambar 41 Halaman Pengaturan Membaca
+|copy| : Copy / Menggandakan data yang dipilih 
 
-2.18 Menambahkan sosial media ke sidebar
-----------------------------------------
-Penambahan social media terdapat pada menu “Tampilan” dengan sub menu “Widget” Berikut adalah cara menambahkan halaman facebook ke sidebar: 
+|paste| : Paste / menempelkan data hasil cut atau copy 
 
-.. figure:: images/sidekaweb/tambah-plugin-facebook.png
-   :alt: Halaman Penambahan Plugin Facebook ke sidebar
-   :align: center
+|import| : Import Excel
 
-   Gambar 42 Halaman Penambahan Plugin Facebook ke sidebar
+|export| : Export Excel
 
-Klik “Plugin Halaman Facebook” dan isikan judul dan url facebook, tekan simpan untuk menyimpan, berikut tampilannya:
+|apbdes| : Memilih Tahun anggaran APBDes
 
-.. figure:: images/sidekaweb/widget-facebook.png
-   :alt: Pengisian Form Widget Facebook
-   :align: center
-
-   Gambar 43 Pengisian Form Widget Facebook
-
-Untuk menambahkan lini masa caranya hampir sama dengan menambahkan halaman ke facebook, yaitu tekan, tahan dan pindahkan “Lini Masa Twitter (jetpack)” ke home-6 1/3 width berikut caranya:
-
-.. figure:: images/sidekaweb/tambah-twitter.png
-   :alt: Halaman Penambahan Lini Masa Twitter ke Sidebar
-   :align: center
-
-   Gambar 44 Halaman Penambahan Lini Masa Twitter ke Sidebar
-
-Masukan judul ke kolom “judlu” dan id twitter ke “nama pengguna twitter” seperti pada gambar berikut:
-
-.. figure:: images/sidekaweb/form-twitter.png
-   :alt: Halaman Pengisian Form Lini Masa
-   :align: center
-
-   Gambar 45 Halaman Pengisian Form Lini Masa
-
-2.19 Menyisipkan Video Youtube Ke Dalam Berita
+1.8 Penambahan Tahun Anggaan dan Detail Apbdes
 ----------------------------------------------
-Sebelum menyisipkan video ke berita, pastikan video sudah di upload terlebih dahulu ke youtube, berikut cara upload ke youtube:
+Untuk menambahkan tahun anggaran klik dan pilih **“Buat APBDes Baru”**, berikut tampilannya: 
 
-1. Sign in ke youtube
-
-.. figure:: images/sidekaweb/signin-youtube.png
-   :alt: Form Sign In Youtube
+.. figure:: images/sidekadesktop/carabuat-apbdes.png
+   :alt: Cara Pembuatan dan Pemilihan APBDes
    :align: center
+   
+   Gambar 27 Cara Pembuatan dan Pemilihan APBDes.
 
-   Gambar 46 Form Sign In Youtube
+Selanjutnya masukan tahun anggaran seperti pada gambar tambah APBDes baru.
+Untuk menambahkan Detail Apbdes dapat mengklik tanda **"tambah"**,halaman penambahan akan keluar seperti berikut:
 
-2. Klik “upload”
-
-.. figure:: images/sidekaweb/upload-youtube.png
-   :alt: Menu Upload Youtube
+.. figure:: images/sidekadesktop/tambah-detail-apbdes.png
+   :alt: Form Penambahan Detail APBDes
    :align: center
+   
+   Gambar 28 Form Penambahan Detail APBDes.
 
-   Gambar 47 Menu Upload Youtube
+Masukan Kode rekening, Uraian, Jumlah, Dan Keterangan. Jika detail yang dimasukan merupakan sub detail atau rincian maka centang “ini merupakan rincian anggaran yang tidak berkode rekening.
 
-3. Pilih Berkas
+1.9 Import dan Export APBDes
+----------------------------
+Untuk Import Apbdes dapat mengklik tombol **"browse"**, kemudian pilih berkas seperti gambar berikut: 
 
-.. figure:: images/sidekaweb/pilih-berkas.png
-   :alt: Form Pemilihan Berkas
+.. figure:: images/sidekadesktop/pilih-berkas-apbdes.png
+   :alt: Halaman Pemilihan Berkas APBDes
    :align: center
+   
+   Gambar 29 Halaman Pemilihan Berkas APBDes.
 
-   Gambar 48 Form Pemilihan Berkas
+Pilih berkas dan klik open untuk import Apbdes, selanjutnya klik **"save"** untuk menyimpan APBDes.
+Untuk Export Apbdes menjadi file dengan format  .xlsx dapat mengklik **"export"** dan pilih lokasi penyimpanan, seperti berikut:
 
-4. Publish Video
-
-.. figure:: images/sidekaweb/proses-upload-youtube.png
-   :alt: Proses Upload Youtube
+.. figure:: images/sidekadesktop/simpan-berkas-apbdes.png
+   :alt: Halaman Penyimpanhan Berkas APBDes
    :align: center
+   
+   Gambar 30 Halaman Penyimpanhan Berkas APBDes.
 
-   Gambar 49 Proses Upload Youtube
-
-5. Copy url
-
-.. figure:: images/sidekaweb/copy-url.png
-   :alt: Upload Done
-   :align: center
-
-   Gambar 50 Upload Done
-
-6. Paste Url Pada Isi Berita.
-
-.. figure:: images/sidekaweb/halaman-buat-berita-youtube.png
-   :alt: Halaman Pembuatan Berita
-   :align: center
-
-   Gambar 51 Halaman Pembuatan Berita
+indikator TPB
+=============

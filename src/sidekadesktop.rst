@@ -133,3 +133,80 @@ Pilih berkas yang akan di import dan klik open untuk mengimport berkas, berikut 
 
 Jika sudah melakukan Import data Klik “Simpan” untuk menyimpan data atau berkas.
 Data yang telah di import dapat di export  kembali menjadi file dengan format .xlsx, untuk meng- export dapat mengklik tanda |export| yang terdapat pada bagian atas, dan akan muncul halaman untuk menyimpan file seperti berikut:
+
+.. figure:: images/sidekadesktop/simpan-data-penduduk.png
+   :alt: Halaman Penyimpanan Berkas Data Penduduk
+   :align: center
+   
+   Gambar 8 Halaman Penyimpanan Berkas Data Penduduk.
+
+Masukan nama file, dan klik **“Save”** untuk menyimpan file
+
+1.2 Tambah data penduduk
+------------------------
+
+Untuk menambahkan data penduduk dapat mengklik tanda **"tambah"**  dan baris akan muncul atau seperti berikut: 
+
+.. figure:: images/sidekadesktop/tambah-baris-data-penduduk.png
+   :alt: Halaman Penambahan Baris Data Penduduk
+   :align: center
+   
+   Gambar 9 Halaman Penambahan Baris Data Penduduk.
+
+Masukan data pada kolom yang kosong atau mucul, dan klik **"simpan"** untuk menyimpan data yang telah ditambahkan. 
+
+Selain menambahkan data penduduk, data penduduk yang telah ditambahkan dapat dihapus dengan cara blok baris yang akan di hapus lalu klik kanan pada baris tersebut dan klik **“remove row”** untuk menghapus berikut tampilannya: 
+
+.. figure:: images/sidekadesktop/hapus-baris-data-penduduk.png
+   :alt: Halaman Hapus Baris Data Penduduk
+   :align: center
+   
+   Gambar 10 Halaman Hapus Baris Data Penduduk.
+
+1.3 Pembuatan surat
+-------------------
+
+Pembuatan surat dapat di lakukan dengan cara mengklik data penduduk yang akan dibuatkan surat, dan klik **"surat"** untuk pembuatan surat, berikut tampilannya: 
+
+.. figure:: images/sidekadesktop/cetak-surat.png
+   :alt: Halaman Cara Cetak Surat
+   :align: center
+   
+   Gambar 11 Halaman Cara Cetak Surat.
+
+Halaman akan langsung di alihkan ke penyimpanan berkas seperti berikut: 
+
+.. figure:: images/sidekadesktop/browse-cetak-surat.png
+   :alt: Halaman Cetak Surat
+   :align: center
+   
+   Gambar 12 Halaman Cetak Surat.
+
+Masukan nama file dan klik **“save”** untuk menyimpan berkas. 
+
+1.4 Filtering dan pencarian data penduduk
+-----------------------------------------
+
+Untuk Filtering memiliki 2 cara, cara yang pertama dapat  mengklik  tombol ktp, kontak, keluarga atau kompetensi yang terdapat pada bagian atas. Berikut tampilan untuk filtering berdasarkan kontak: 
+
+.. figure:: images/sidekadesktop/tombol-filtering.png
+   :alt: Halaman Filering Dengan Tombol
+   :align: center
+   
+   Gambar 13 Halaman Filering Dengan Tombol.
+
+Cara yang kedua yaitu dapat mengklik pada kolom header, berikut contoh dalam melakukan filter berdasarkan no kepala keluarga yang sama: 
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom.png
+   :alt: Filtering Data Penduduk Dengan Kolom
+   :align: center
+   
+   Gambar 14 Filtering Data Penduduk Dengan Kolom.
+
+Klik sama dengan da nisi value dengan no kk yang akan di filter dan klik “saring”, berikut hasil dan contohnya:
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom-samadengan.png
+   :alt: Filtering Kolom dengan "sama dengan"
+   :align: center
+   
+   Gambar 15 Filtering Kolom dengan "sama dengan".
