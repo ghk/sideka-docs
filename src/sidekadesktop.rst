@@ -210,3 +210,242 @@ Klik sama dengan da nisi value dengan no kk yang akan di filter dan klik “sari
    :align: center
    
    Gambar 15 Filtering Kolom dengan "sama dengan".
+
+Untuk melakukan pencarian pada data penduduk dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
+
+.. figure:: images/sidekadesktop/cari-data-penduduk.png
+   :alt: Pencarian Data Penduduk
+   :align: center
+   
+   Gambar 16 Pencarian Data Penduduk.
+
+Pengelolaan data keluarga
+=========================
+Untuk Masuk ke menu Pengelolaan data keluarga dapat mengklik menu “Data Keluarga” pada halaman utama sideka, berikut tampilan dan penjelasan masing-masing menu pada halaman data keluarga: 
+
+.. figure:: images/sidekadesktop/kelola-data-keluarga.png
+   :alt: Halaman Pengelolaan Data Keluarga
+   :align: center
+   
+   Gambar 17 Halaman Pengelolaan Data Keluarga.
+
+.. |home| image:: images/sidekadesktop/home.png    
+   :scale: 50%
+   :align: center
+.. |simpan| image:: images/sidekadesktop/simpan.png
+   :scale: 50%
+   :align: center
+.. |kartukeluarga| image:: images/sidekadesktop/kartu-keluarga.png
+   :scale: 50%
+   :align: center
+.. |undo| image:: images/sidekadesktop/undo.png
+   :scale: 50%
+   :align: center
+.. |redo| image:: images/sidekadesktop/redo.png
+   :scale: 50%
+   :align: center
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
+   :align: center
+
+|home| : Tombol Kembali ke halaman Administrator 
+
+|simpan| : Untuk Menyimpan Data Keluarga
+
+|kartukeluarga| : Untuk Membuat Salinan Kartu Keluarga
+
+|undo| : Undo / Mengembalikan Data ke sebelum di edit 
+
+|redo| : Redo / Mengembalikan Data ke setelah di edit
+
+|export| : Export Excel
+
+1.5 Export Kartu Keluarga
+-------------------------
+Untuk meng-export data keluarga menjadi file dengan ekstensi .xlsx dapat mengklik **"export"** dan akan muncul halaman untuk menyimpan file, berikut tampilannya: 
+
+.. figure:: images/sidekadesktop/simpan-berkas-data-keluarga.png
+   :alt: Halaman Penyimpanan Berkas Data Keluarga
+   :align: center
+   
+   Gambar 18 Halaman Penyimpanan Berkas Data Keluarga.
+
+Masukan nama File pada kolom file name, dan klik **“save”** untuk menyimpan file.
+
+1.6 Pembuatan Kartu Keluarga
+----------------------------
+Pembuatan Kartu keluarga tidak berbeda seperti pembuatan surat, yaitu dengan klik data penduduk lalu klik **"Kartu Keluarga"** untuk membuat Salinan kartu keluarga, berikut tampilannya:
+
+.. figure:: images/sidekadesktop/buat-kartu-keluarga.png
+   :alt: Halaman Pembuatan Kartu Keluarga
+   :align: center
+   
+   Gambar 19 Halaman Pembuatan Kartu Keluarga.
+
+Halaman penyimpanan berkas akan muncul seperti saat pembuatan surat atau export kartu keluarga, masukan file name dan klik **“save”* untuk menyimpan.
+
+1.7 Filtering Dan Pencarian Data Keluarga
+-----------------------------------------
+filtering data keluarga memiliki 2 cara yaitu dengan cara mengklik tombol semua, alamat dan sosial, berikut adalah contoh filtering kartu keluarga berdasarkan alamat: 
+
+
+.. figure:: images/sidekadesktop/tombol-filtering-data-keluarga.png
+   :alt: Filtering Tabel Data Keluarga Dengan Tombol
+   :align: center
+   
+   Gambar 20 Filtering Tabel Data Keluarga Dengan Tombol.
+
+cara yang kedua yaitu dengan cara mengklik tanda panah pada bagian samping header, berikut contoh filtering dengan menu dimulai dengan: 
+
+.. figure:: images/sidekadesktop/filtering-dengan-kolom-dimulaidengan.png
+   :alt: Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan"
+   :align: center
+   
+   Gambar 21 Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan".
+
+Berikut adalah hasilnya: 
+
+.. figure:: images/sidekadesktop/hasil-filtering-dengan-kolom-dimulaidengan.png
+   :alt: Hasil Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan"
+   :align: center
+   
+   Gambar 22 Hasil Filtering Kolom Data Keluarga dengan Menu "Dimulai Dengan".
+
+Untuk melakukan pencarian pada data keluarga dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
+
+.. figure:: images/sidekadesktop/pencarian-data-keluarga.png
+   :alt: Pencarian Data Keluarga
+   :align: center
+   
+   Gambar 23 Pencarian Data Keluarga.
+
+Pengelolaan APBDes
+==================
+Untuk melakukan pengelolaan data APBDes dapat mengklik menu “APBDes” pada halaman utama sideka. Jika apbdes belum pernah dibuat maka akan muncul halaman pembuatan apbdes seperti berikut :
+
+.. figure:: images/sidekadesktop/kelola-apbdes.png
+   :alt: Halaman Pengelolaan APBDes
+   :align: center
+   
+   Gambar 24 Halaman Pengelolaan APBDes.
+
+Klik “Buat APBDes Baru” Masukan tahun apbdes yang akan dibuat pada halaman seperti berikut: 
+
+.. figure:: images/sidekadesktop/tambah-tahun-apbdes.png
+   :alt: Halaman Penambahan Tahun Anggaran APBDes
+   :align: center
+   
+   Gambar 25 Halaman Penambahan Tahun Anggaran APBDes.
+
+Masukan tahun anggaran dan centang jika apbdes merupakan apbdes perubahan, klik “mulai buat apbdes” untuk membuat apbdes. Berikut adalah halaman awal pembuatan apbdes:
+
+.. figure:: images/sidekadesktop/kelola-data-apbdes.png
+   :alt: Halaman Pengelolaan Data APBDes
+   :align: center
+   
+   Gambar 26 Halaman Pengelolaan Data APBDes.
+
+Berikut adalah penjelasan masing-masing menu pada halaman apbdes:
+
+.. |home| image:: images/sidekadesktop/home.png    
+   :scale: 50%
+   :align: center
+.. |tambah| image:: images/sidekadesktop/tambah-apbdes.png
+   :scale: 50%
+   :align: center
+.. |simpan| image:: images/sidekadesktop/simpan.png
+   :scale: 50%
+   :align: center
+.. |surat| image:: images/sidekadesktop/surat.png
+   :scale: 50%
+   :align: center
+.. |undo| image:: images/sidekadesktop/undo.png
+   :scale: 50%
+   :align: center
+.. |redo| image:: images/sidekadesktop/redo.png
+   :scale: 50%
+   :align: center
+.. |cut| image:: images/sidekadesktop/cut.png
+   :scale: 50%
+   :align: center
+.. |copy| image:: images/sidekadesktop/copy.png
+   :scale: 50%
+   :align: center
+.. |paste| image:: images/sidekadesktop/paste.png
+   :scale: 50%
+   :align: center
+.. |import| image:: images/sidekadesktop/import.png
+   :scale: 50%
+   :align: center
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
+   :align: center
+.. |apbdes| image:: images/sidekadesktop/tahun-apbdes.png
+   :scale: 50%
+   :align: center
+
+|home| : Tombol Kembali ke halaman Administrator 
+
+|tambah| : Untuk menambahkan detail baru 
+
+|simpan| : Untuk Menyimpan Data APBDes
+
+|surat| : Untuk Membuat Surat
+
+|undo| : Undo / Mengembalikan Data ke sebelum di edit 
+
+|redo| : Redo / Mengembalikan Data ke setelah di edit
+
+|cut| : Cut / Memindahkan Data yang dipilh
+
+|copy| : Copy / Menggandakan data yang dipilih 
+
+|paste| : Paste / menempelkan data hasil cut atau copy 
+
+|import| : Import Excel
+
+|export| : Export Excel
+
+|apbdes| : Memilih Tahun anggaran APBDes
+
+1.8 Penambahan Tahun Anggaan dan Detail Apbdes
+----------------------------------------------
+Untuk menambahkan tahun anggaran klik dan pilih **“Buat APBDes Baru”**, berikut tampilannya: 
+
+.. figure:: images/sidekadesktop/carabuat-apbdes.png
+   :alt: Cara Pembuatan dan Pemilihan APBDes
+   :align: center
+   
+   Gambar 27 Cara Pembuatan dan Pemilihan APBDes.
+
+Selanjutnya masukan tahun anggaran seperti pada gambar tambah APBDes baru.
+Untuk menambahkan Detail Apbdes dapat mengklik tanda **"tambah"**,halaman penambahan akan keluar seperti berikut:
+
+.. figure:: images/sidekadesktop/tambah-detail-apbdes.png
+   :alt: Form Penambahan Detail APBDes
+   :align: center
+   
+   Gambar 28 Form Penambahan Detail APBDes.
+
+Masukan Kode rekening, Uraian, Jumlah, Dan Keterangan. Jika detail yang dimasukan merupakan sub detail atau rincian maka centang “ini merupakan rincian anggaran yang tidak berkode rekening.
+
+1.9 Import dan Export APBDes
+----------------------------
+Untuk Import Apbdes dapat mengklik tombol **"browse"**, kemudian pilih berkas seperti gambar berikut: 
+
+.. figure:: images/sidekadesktop/pilih-berkas-apbdes.png
+   :alt: Halaman Pemilihan Berkas APBDes
+   :align: center
+   
+   Gambar 29 Halaman Pemilihan Berkas APBDes.
+
+Pilih berkas dan klik open untuk import Apbdes, selanjutnya klik **"save"** untuk menyimpan APBDes.
+Untuk Export Apbdes menjadi file dengan format  .xlsx dapat mengklik **"export"** dan pilih lokasi penyimpanan, seperti berikut:
+
+.. figure:: images/sidekadesktop/simpan-berkas-apbdes.png
+   :alt: Halaman Penyimpanhan Berkas APBDes
+   :align: center
+   
+   Gambar 30 Halaman Penyimpanhan Berkas APBDes.
+
+indikator TPB
