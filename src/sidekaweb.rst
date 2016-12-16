@@ -1,7 +1,7 @@
-PENGGUNAAN SIDEKA UNTUK PENGUNJUNG
+Panduan Sideka Web
 ==================================
 
-1.1 Halaman Utama Web Desa
+Halaman Utama Web Desa
 ------------------------------
 Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila firefox, google chrome, dll). Berikut adalah tampilan laman utama:
 
@@ -26,10 +26,8 @@ Pada halaman utama sideka terdapat menu utama yaitu:
 **f. Kependudukan**
      Menu kependudukan berisi statistika Penduduk dengan berdasarkan data penduduk yang terdapat pada desa.
 
-SIDEKA ADMINISTRATOR
-====================
 
-2.1 Login Wordpress
+Login Wordpress
 -------------------
 Buka domain nama desa yang telah dibuat pada browser,contoh http://namadesa.desa.id lalu klik **“Log Masuk”** pada halaman paling bawah sideka atau seperti gambar beikut:
 
@@ -55,7 +53,7 @@ Berikut Tampilan Dashboard Adminisitrator jika telah sukses login:
 
    Gambar 4 Halaman Dashboard Administraor
 
-2.2 Lupa Password
+Lupa Password
 ---------------------
 Kehilangan password atau lupa password dapat mengklik “kehilangan password Anda?” pada halam login atau seperti berikut:
 
@@ -75,7 +73,7 @@ Selanjutnya, masukan email pada form  **“Halaman Pengguna Atau Email”** dan 
 
 Password akan dikirimkan melalui email yang berisi link untuk merubah password.
 
-2.3 Posting berita
+Posting berita
 ------------------
 Klik menu Pos pada dashboard sideka admin, dan klik **“Tambah Baru”** untuk membuat posting atau berita baru seperti yang ditunjukan pada gambar berikut:
 
@@ -134,7 +132,7 @@ Jika form sudah terisi semua selanjutnya klik Terbitkan untuk menerbitkan berit 
 
    Gambar 12 Form Penerbitan Berita
 
-2.4 Penyuntingan atau Editing berita
+Penyuntingan atau Editing berita
 ------------------------------------
 Penyuntingan Berita Memiliki 2 cara yaitu dengan Sunting Biasa atau Sunting Cepat, pada sunting berita dengan Sunting biasa halaman yang ditampilkan akan seperti membuat berita baru, sedangkan untuk sunting cepat penyuntingan berita tidak di alihkan ke halaman lain melainkan di tempat itu sendiri namun untuk isi berita dari berita tersebut tidak ditampilkan, berikut tampilan mengedit berita dengan cara **“Sunting”** atau **“Sunting Cepat”**:
 
@@ -154,7 +152,7 @@ Berikut tampilan pengeditan berita dengan cara **“sunting cepat”**:
 
 Jika sudah melakukan perubahan dapat meng klik “Perbarui”.
 
-2.5 Hapus berita
+Hapus berita
 ----------------
 Untuk melakukan penghapusan penghapusan 1 berita dapat dilakukan dengan cara mengarahkan kursor pada berita yang akan dihapus, lalu Klik “Buang”untuk menghapus berita, untuk berita yang dihapus akan masuk ke tong sampah dan untuk melihatnya dapat mengklik “Tong Sampah” untuk melihat file seperti yang ditunjukan pada gambar berikut:
 
@@ -172,7 +170,7 @@ Untuk melakukan lebih dari 1 berita dapat dilakukan dengan cara, Centang kotak y
 
    Gambar 16 Penghapusan 1 Berita
 
-2.6 Pencarian berita
+Pencarian berita
 ------------------------
 Untuk pencarian berita, buka menu pos pada halaman admin dan masukan kata kunci pada kolom pencarian lalu klik **“cari pos”** untuk mencari.
 
@@ -182,7 +180,7 @@ Untuk pencarian berita, buka menu pos pada halaman admin dan masukan kata kunci 
 
    Gambar 17 Form Pencarian Berita
 
-2.7 Tambah kategori berita
+Tambah kategori berita
 --------------------------
 Penambahan kategori berita dapat dilakukan pada menu **“Pos”** dengan sub menu **“kategori”**, masukan nama kategori, slug, induk dan deskripsi. Pengisian Form cukup memasukan nama dan slug, klik “tambah Kategori Baru” untuk menyimpan kategori yang telah dibuat, Berikut tampilannya:
 
@@ -193,7 +191,7 @@ Penambahan kategori berita dapat dilakukan pada menu **“Pos”** dengan sub me
 
    Gambar 18 Penambahan Kategori Berita
 
-2.8 Membuat halaman
+Membuat halaman
 -------------------
 Untuk membuat Halam klik “Laman” di menu administrator, lalu klik “Tambah Baru” atau seperti berikut ini:
 
@@ -213,7 +211,7 @@ Untuk membuat Halam klik “Laman” di menu administrator, lalu klik “Tambah 
 
    Gambar 20 Penambahan Halaman Baru
 
-2.9 Menampilkan Halaman di Menu
+Menampilkan Halaman di Menu
 -------------------------------
 Untuk menampilkan halaman yang telah dibuat Klik “Tampilan” dan klik sub menu “Menu”. Untuk menampilkan Halaman ke menu, centang halaman yang telah dibuat, lalu klik “Tambahkan ke Menu” berikut Tampilannya:
 
@@ -239,7 +237,7 @@ berikut adalah hasilnya:
 
    Gambar 23 Hasil Penambahan Halaman Ke Menu
 
-2.10 Menampilkan Posting Berkategori Ke Menu
+Menampilkan Posting Berkategori Ke Menu
 -----------------------------------------------
 Untuk membuat menu baru dengan halaman yang berisikan posting berita dengan kategori yang telah dibuat yaitu:
 
@@ -253,7 +251,7 @@ Untuk membuat menu baru dengan halaman yang berisikan posting berita dengan kate
 
    Gambar 24 Penambahan Kategori Berita Ke Menu
 
-2.11 Mengatur komentar
+Mengatur komentar
 ----------------------
 Jika Moderasi Komentar aktif maka setiap komentar yang masuk tidak langsung ditampilkan, tetapi komentar akan masuk terlebih dahulu untuk mendapat persetujuan dari administrator. Untuk mengatur komentar satu persatu arahkan kursor ke komentar sampai menu muncul seperti gambar berikut:
 
@@ -281,7 +279,7 @@ Penghapusan atau menyetujui pesan secara masal dapat dengan menandai pesan yang 
 
    Gambar 26 Penindakan Komentar Secara Massal
 
-2.12 Mematikan Moderasi Komentar
+Mematikan Moderasi Komentar
 --------------------------------
 Mematikan moderasi komentar memungkinkan setiap orang yang mengirim komentar akan langsung di tampilkan tanpa memerlukan persetujuan dari administrator, untuk mematikan moderasi komentar unchecklist “sebuah komentar ditahan untuk moderasi”, berikut tampilannya:
 
@@ -299,7 +297,7 @@ jika sudah menonaktifkan, scroll ke bawah dan klik “simpan perubahan” untuk 
 
    Gambar 28 Penyimpanan Perubahan Pengaturan Diskusi
 
-2.13 Mengganti Logo Web
+Mengganti Logo Web
 -----------------------
 Untuk mengganti Logo desa caranya adalah klik “Tampilan” lalu pilih  “sesuaikan”, berikut tampilannya:
 
@@ -350,7 +348,9 @@ Jika pemangkasan sudah dilakukan langkah selanjutnya menyimpan hasil dan menerbi
 
    Gambar 34 Menu Penyimpanan Perubahan
 
-2.14 Menganti latar belakang
+Menganti latar belakang
+-----------------------------
+
 Penggantian latar belakang masih dalam menu “Tampilan” dan sub menu “sesuaikan” seperti pada gambar awal penggantian logo, pilih “Gambar Latar Belakang” untuk penggantian background latar belakang:
 
 .. figure:: images/sidekaweb/ganti-latarbelakang.png
@@ -367,7 +367,7 @@ Pilih seleksi gambar untuk memilih gambar, tampilan untuk pemilihan gambar sama 
 
    Gambar 36 Halaman Penggantian Latar Belakang
 
-2.15 Menganti warna tema
+Menganti warna tema
 ------------------------
 Penggantian warna tema dalam menu “Tampilan” dan sub menu “sesuaikan” seperti pada gambar awal penggantian logo, pilih “Warna” untuk penggantian warna:
 
@@ -386,7 +386,7 @@ Tipe warna digunakan untuk mengganti warna tema, dan “warna latar belakang” 
 
    Gambar 38 Halaman Penggantian Warna
 
-2.16 Menambahkan pengguna
+Menambahkan pengguna
 -------------------------
 Penambahan Pengguna dapat dilakukan pada menu “pengguna” dan klik “tambah pengguna” untuk menambahkan pengguna baru, berikut tampilannya:
 
@@ -406,7 +406,7 @@ Halaman akan langsung dialihkan seperti pada gambar berikut:
 
 Saat menambahkan pengguna, wajib menambahkan nama, surel (e-mail), pilih Role pengguna, dan selesai, Password akan dikirmkan ke pengguna baru melalui email yang telah di daftarkan.
 
-2.17 Mengatur jumlah berita yang ditampilkan
+Mengatur jumlah berita yang ditampilkan
 --------------------------------------------
 Untuk mengatur jumlah berita yang tampil dapat diatur dengan cara berikut:
 
@@ -416,7 +416,7 @@ Untuk mengatur jumlah berita yang tampil dapat diatur dengan cara berikut:
 
    Gambar 41 Halaman Pengaturan Membaca
 
-2.18 Menambahkan sosial media ke sidebar
+Menambahkan sosial media ke sidebar
 ----------------------------------------
 Penambahan social media terdapat pada menu “Tampilan” dengan sub menu “Widget” Berikut adalah cara menambahkan halaman facebook ke sidebar: 
 
@@ -450,7 +450,7 @@ Masukan judul ke kolom “judlu” dan id twitter ke “nama pengguna twitter”
 
    Gambar 45 Halaman Pengisian Form Lini Masa
 
-2.19 Menyisipkan Video Youtube Ke Dalam Berita
+Menyisipkan Video Youtube Ke Dalam Berita
 ----------------------------------------------
 Sebelum menyisipkan video ke berita, pastikan video sudah di upload terlebih dahulu ke youtube, berikut cara upload ke youtube:
 

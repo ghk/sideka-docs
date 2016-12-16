@@ -49,9 +49,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'kawaldesa.org'
-copyright = 'kawaldesa.org'
-author = 'kawaldesa.org'
+project = 'Panduan Sideka'
+copyright = 'BP2DK'
+author = 'BP2DK'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -163,9 +163,9 @@ html_context = {
         ],
     'github_user' : 'ghk',
     'display_github' : True,
-    'github_repo' : 'kawaldesa',
+    'github_repo' : 'sideka-docs',
     'github_version' : 'master',
-    'conf_py_path' : '/Docs/src/',
+    'conf_py_path' : '/src/',
     'source_suffix' : '.rst',
     }
 
@@ -230,7 +230,7 @@ html_last_updated_fmt = '%b %d, %Y'
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'kawaldesa'
+htmlhelp_basename = 'sideka'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -282,7 +282,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'kawaldesa.org', 'Dokumentasi kawaldesa.org',
+    (master_doc, 'Sideka', 'Panduan Sideka',
      [author], 1)
 ]
 
@@ -296,8 +296,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'kawaldesa.org', 'Dokumentasi kawaldesa.org',
-   author, 'kawaldesa.org', 'Dokumentasi kawaldesa.org',
+  (master_doc, 'Sideka', 'Panduan Sideka',
+   author, 'Sideka', 'Panduan Sideka',
    'Dokumentasi'),
 ]
 
