@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sideka
+Panduan Sideka
 =========================
 
+Selamat datang di laman panduan penggunaan Sideka. Di laman ini Anda dapat membaca panduan maupun melihat video tutorial penggunaan Sideka.
 
 .. _user-docs:
 .. toctree::
 
     sidekaweb
     sidekadesktop
+    videoweb
 
 
 

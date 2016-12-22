@@ -1,8 +1,9 @@
-Panduan Sideka Web
+Panduan Sideka Wordpress
 ==================================
 
 Halaman Utama Web Desa
 ------------------------------
+
 Untuk dapat melihat halaman utama sideka, masukan url desa pada browser (mozila firefox, google chrome, dll). Berikut adalah tampilan laman utama:
 
 .. figure:: images/sidekaweb/halaman-utama.png
@@ -29,6 +30,7 @@ Pada halaman utama sideka terdapat menu utama yaitu:
 
 Login Wordpress
 -------------------
+
 Buka domain nama desa yang telah dibuat pada browser,contoh http://namadesa.desa.id lalu klik **“Log Masuk”** pada halaman paling bawah sideka atau seperti gambar beikut:
 
 .. figure:: images/sidekaweb/log-masuk.png
