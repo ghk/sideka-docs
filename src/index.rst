@@ -14,6 +14,4 @@ Selamat datang di laman panduan penggunaan Sideka. Di laman ini Anda dapat memba
     sidekaweb
     sidekadesktop
     videoweb
-
-
-
+    videodesktop
