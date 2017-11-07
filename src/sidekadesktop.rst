@@ -42,15 +42,16 @@ Masukan username dan password, dan klik **“log masuk”** untuk login, jika lu
    
    Gambar 4 Halaman Administrator Sideka Desktop.
    
-   |Terdapat 4 Modul Pada Sideka Desktop yaitu 
-   |1. Kependudukan
-   |2. Pemetaan
-   |3. Keuangan (Perencanaan, Penganggaran, & Penatausahaan)
-   |4. Pengguna
+Terdapat 4 Modul Utama Pada Sideka Desktop yaitu 
+   .. [#] Kependudukan
+   .. [#]  Pemetaan
+   .. [#] Keuangan (Perencanaan, Penganggaran, & Penatausahaan)
+   .. [#]  Pengguna
 
-Pengelolan data penduduk
+
+Kependudukan
 ========================
-Untuk Masuk Ke menu Pengelolaan data penduduk Klik menu “Data Penduduk” pada halaman utama sideka, Berikut Tampilah Halaman Pengelolaan Data Penduduk:
+Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utama sideka, Berikut Tampilah Halaman Pengelolaan Data Penduduk:
 
 .. figure:: images/sidekadesktop/halaman-pengelolaan-kependudukan.png
    :alt: Halaman Pengelolaan Kependudukan
@@ -61,37 +62,37 @@ Untuk Masuk Ke menu Pengelolaan data penduduk Klik menu “Data Penduduk” pada
 
 .. |home| image:: images/sidekadesktop/home.png    
    :scale: 50%
-   :align: center
+   :align: middle
 .. |tambah| image:: images/sidekadesktop/tambah.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |simpan| image:: images/sidekadesktop/simpan.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |surat| image:: images/sidekadesktop/surat.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |undo| image:: images/sidekadesktop/undo.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |redo| image:: images/sidekadesktop/redo.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |cut| image:: images/sidekadesktop/cut.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |copy| image:: images/sidekadesktop/copy.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |paste| image:: images/sidekadesktop/paste.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |import| image:: images/sidekadesktop/import.png
    :scale: 50%
-   :align: center
+   :align: middle
 .. |export| image:: images/sidekadesktop/export.png
    :scale: 50%
-   :align: center
+   :align: middle
 
 |home| : Tombol Kembali ke halaman Administrator 
 
