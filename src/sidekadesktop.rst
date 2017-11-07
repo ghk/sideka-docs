@@ -41,6 +41,12 @@ Masukan username dan password, dan klik **“log masuk”** untuk login, jika lu
    :align: center
    
    Gambar 4 Halaman Administrator Sideka Desktop.
+   
+   Terdapat 4 Modul Pada Sideka Desktop yaitu 
+   1. Kependudukan
+   2. Pemetaan
+   3. Keuangan (Perencanaan, Penganggaran, & Penatausahaan)
+   4. Pengguna
 
 Pengelolan data penduduk
 ========================
