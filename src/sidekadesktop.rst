@@ -396,6 +396,31 @@ Pada Menu perencanaan, Bagian **"RKP (1-6)"**  klik tombol |tambah| untuk menamb
    
    Gambar 26 Halaman Perencanaan Tab RKP.
 
+2.1 Penganggaran
+----------------------------------------------
+
+Pada Menu penganggaran, Bagian **"kegiatan"**  klik tombol |tambah| untuk mengisi kegiatan beserta anggaran per kegiatan.
+
+.. figure:: images/sidekadesktop/penganggaran-kegiatan.png
+   :alt: Halaman Penganggaran Kegiatan
+   :align: center
+   
+   Gambar 26 Halaman Penganggaran Kegiatan.
+
+Pada Menu penganggaran, Bagian **"rab"**  klik tombol |tambah| untuk mengisi RAB (Pendapatan, Belanja, Pembiayaan).
+
+.. figure:: images/sidekadesktop/penganggaran-rab.png
+   :alt: Halaman RAB Kegiatan
+   :align: center
+   
+   Gambar 26 Halaman RAB Kegiatan.
+
+
+
+
+
+
+
 Berikut adalah penjelasan masing-masing menu pada halaman apbdes:
 
 .. |home| image:: images/sidekadesktop/home.png    
