@@ -347,9 +347,9 @@ Untuk melakukan pencarian pada data keluarga dapat memasukan kata kunci pada  ko
    
    Gambar 23 Pencarian Data Keluarga.
 
-Pengelolaan APBDes
+Pengelolaan Keuangan
 ==================
-Untuk melakukan pengelolaan data APBDes dapat dilakukan dengan cara masuk menu konfigurasi, kemudian pilih tab **"Siskeudes"** pengguna dapat mengimport database dari aplikasi SISKEUDES yaitu file yang berk ekstensi .mde kemudian mengunggahnya kedalam SiDeka.
+Untuk melakukan pengelolaan data Keuangan sebelumnya pengguna melakukan konfigurasi pada halaman utama SiDeKa kemudian pilih tab **"Siskeudes"** pengguna dapat mengimport database dari aplikasi SISKEUDES yaitu file yang berk ekstensi .mde kemudian mengunggahnya kedalam SiDeka.
 
 .. figure:: images/sidekadesktop/konfigurasi-siskeudes.png
    :alt: Konfigurasi Siskeudes
@@ -365,14 +365,18 @@ Apabila tidak mempunya file .mde dari Siskeudes pengguna dapat membuat database 
    
    Gambar 25 Buat Database Baru.
 
+Beri centang untuk Sinkronisasi Automatis kemudian Klik tombol |simpan| untuk menyimpan perubahan.
 
-Masukan tahun anggaran dan centang jika apbdes merupakan apbdes perubahan, klik “mulai buat apbdes” untuk membuat apbdes. Berikut adalah halaman awal pembuatan apbdes:
+2.1 Perencanaan
+----------------------------------------------
 
-.. figure:: images/sidekadesktop/kelola-data-apbdes.png
-   :alt: Halaman Pengelolaan Data APBDes
+Pada Menu perencanaan, Bagian **"Renstra"**  klik tombol |tambah| untuk mengisi visi, misi, sasaran,& Tujuan
+
+.. figure:: images/sidekadesktop/renstra.png
+   :alt: Halaman Perencanaan Tab Renstra
    :align: center
    
-   Gambar 26 Halaman Pengelolaan Data APBDes.
+   Gambar 26 Halaman Perencanaan Tab Renstra.
 
 Berikut adalah penjelasan masing-masing menu pada halaman apbdes:
 
