@@ -43,10 +43,10 @@ Masukan username dan password, dan klik **“log masuk”** untuk login, jika lu
    Gambar 4 Halaman Administrator Sideka Desktop.
    
 Terdapat 4 Modul Utama Pada Sideka Desktop yaitu 
-   .. [#] Kependudukan
-   .. [#]  Pemetaan
-   .. [#] Keuangan (Perencanaan, Penganggaran, & Penatausahaan)
-   .. [#]  Pengguna
+    * Kependudukan
+    * Pemetaan
+    * Keuangan (Perencanaan, Penganggaran, & Penatausahaan)
+    * Pengguna
 
 
 Kependudukan
@@ -60,16 +60,34 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
    Gambar 5 Halaman Pengelolaan Kependudukan. 
 
 
-.. |home| image:: images/sidekadesktop/home.png    
-   :scale: 50%
-   :align: middle
-.. |tambah| image:: images/sidekadesktop/tambah.png
+.. |beranda| image:: images/sidekadesktop/beranda.png    
    :scale: 50%
    :align: middle
 .. |simpan| image:: images/sidekadesktop/simpan.png
    :scale: 50%
    :align: middle
+.. |info| image:: images/sidekadesktop/info.png
+   :scale: 50%
+   :align: middle
+.. |mutasi| image:: images/sidekadesktop/mutasi.png
+   :scale: 50%
+   :align: middle
 .. |surat| image:: images/sidekadesktop/surat.png
+   :scale: 50%
+   :align: middle
+.. |import| image:: images/sidekadesktop/import.png
+   :scale: 50%
+   :align: middle
+.. |export| image:: images/sidekadesktop/export.png
+   :scale: 50%
+   :align: middle
+.. |detil| image:: images/sidekadesktop/detil.png
+   :scale: 50%
+   :align: middle
+.. |keluarga| image:: images/sidekadesktop/keluarga.png
+   :scale: 50%
+   :align: middle
+.. |statistik| image:: images/sidekadesktop/statistik.png
    :scale: 50%
    :align: middle
 .. |undo| image:: images/sidekadesktop/undo.png
@@ -87,20 +105,26 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
 .. |paste| image:: images/sidekadesktop/paste.png
    :scale: 50%
    :align: middle
-.. |import| image:: images/sidekadesktop/import.png
-   :scale: 50%
-   :align: middle
-.. |export| image:: images/sidekadesktop/export.png
-   :scale: 50%
-   :align: middle
 
-|home| : Tombol Kembali ke halaman Administrator 
+|beranda| : Tombol Kembali ke halaman utama.
 
-|tambah| : Untuk menambahkan baris baru 
+|simpan| : Untuk Menyimpan Data Penduduk .
 
-|simpan| : Untuk Menyimpan Data Penduduk 
+|info| : Untuk melihat info file, versi dan perubahan lokal.
 
-|surat| : Untuk Membuat Surat
+|mutasi| : Untuk melakukan mutasi (pindah datang, pindah pergi, kelahiran, kematian) penduduk.
+
+|surat| : Untuk Membuat berbagai surat terkait kependudukan.
+
+|import| : Import Excel data kependudukan dari penyimpanan lokal ke sistem SiDeKa Desktop.
+
+|export| : Export data kependudukan kedalam penyimpanan lokal dalam bentuk excel.
+
+|detil| : Untuk melihat detil data penduduk berdasarkan penduduk yang dipilih.
+
+|keluarga| : Untuk melihat data keluarga penduduk yang masih dalam 1 nomor kartu kerluaga 
+
+|statistik| : Untuk melihat statistik kependudukan dalam satu desa.
 
 |undo| : Undo / Mengembalikan Data ke sebelum di edit 
 
@@ -111,10 +135,6 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
 |copy| : Copy / Menggandakan data yang dipilih 
 
 |paste| : Paste / menempelkan data hasil cut atau copy 
-
-|import| : Import Excel
-
-|export| : Export Excel
 
 1.1 Import dan Export  data penduduk
 ------------------------------------
