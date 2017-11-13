@@ -265,7 +265,7 @@ Untuk melihat data keluarga dari suatu penduduk dapat dilakukan dengan cara pili
    :alt: Halaman Pengelolaan Data Keluarga
    :align: center
    
-   Gambar 17 Halaman Pengelolaan Data Keluarga.
+   Gambar 18 Halaman Pengelolaan Data Keluarga.
 
 .. |beranda| image:: images/sidekadesktop/beranda.png    
    :scale: 50%
@@ -296,7 +296,7 @@ Untuk meng-export data keluarga menjadi file dengan ekstensi .xlsx dapat mengkli
    :alt: Halaman Penyimpanan Berkas Data Keluarga
    :align: center
    
-   Gambar 18 Halaman Penyimpanan Berkas Data Keluarga.
+   Gambar 19 Halaman Penyimpanan Berkas Data Keluarga.
 
 Masukan nama File pada kolom file name, dan klik **“save”** untuk menyimpan file.
 
