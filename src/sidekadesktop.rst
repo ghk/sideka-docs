@@ -59,7 +59,9 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
    
    Gambar 5 Halaman Pengelolaan Kependudukan. 
 
-
+.. |tambah| image:: images/sidekadesktop/tambah.png
+   :scale: 50%
+   :align: middle
 .. |beranda| image:: images/sidekadesktop/beranda.png    
    :scale: 50%
    :align: middle
