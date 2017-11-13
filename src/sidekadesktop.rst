@@ -249,13 +249,13 @@ Klik sama dengan dan isi value yang akan di filter dan klik “saring”, beriku
    
    Gambar 16 Filtering Kolom dengan "sama dengan".
 
-Untuk melakukan pencarian pada data penduduk dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
+Untuk melakukan pencarian pada data penduduk, pengguna dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan **“Enter”** pada keyboard untuk mencari, berikut adalah tampilannya: 
 
 .. figure:: images/sidekadesktop/cari-data-penduduk.png
    :alt: Pencarian Data Penduduk
    :align: center
    
-   Gambar 16 Pencarian Data Penduduk.
+   Gambar 17 Pencarian Data Penduduk.
 
 Pengelolaan data keluarga
 =========================
