@@ -225,29 +225,29 @@ Masukan nama file dan klik **“save”** untuk menyimpan berkas.
 1.4 Filtering dan pencarian data penduduk
 -----------------------------------------
 
-Untuk Filtering memiliki 2 cara, cara yang pertama dapat  mengklik  tombol ktp, kontak, keluarga atau kompetensi yang terdapat pada bagian atas. Berikut tampilan untuk filtering berdasarkan kontak: 
+Untuk Filtering memiliki 2 cara, cara yang pertama dapat  mengklik  tombol ktp, kontak, keluarga yang terdapat pada radio button bagian atas. Berikut tampilan untuk filtering berdasarkan kontak: 
 
 .. figure:: images/sidekadesktop/tombol-filtering.png
    :alt: Halaman Filering Dengan Tombol
    :align: center
    
-   Gambar 13 Halaman Filering Dengan Tombol.
+   Gambar 14 Halaman Filering Dengan Tombol.
 
-Cara yang kedua yaitu dapat mengklik pada kolom header, berikut contoh dalam melakukan filter berdasarkan no kepala keluarga yang sama: 
+Cara yang kedua yaitu dapat mengklik pada kolom header, berikut contoh dilter data kependudukan yang beragama Islam: 
 
 .. figure:: images/sidekadesktop/filtering-dengan-kolom.png
    :alt: Filtering Data Penduduk Dengan Kolom
    :align: center
    
-   Gambar 14 Filtering Data Penduduk Dengan Kolom.
+   Gambar 15 Filtering Data Penduduk Dengan Kolom.
 
-Klik sama dengan da nisi value dengan no kk yang akan di filter dan klik “saring”, berikut hasil dan contohnya:
+Klik sama dengan dan isi value yang akan di filter dan klik “saring”, berikut hasil dan contohnya:
 
 .. figure:: images/sidekadesktop/filtering-dengan-kolom-samadengan.png
    :alt: Filtering Kolom dengan "sama dengan"
    :align: center
    
-   Gambar 15 Filtering Kolom dengan "sama dengan".
+   Gambar 16 Filtering Kolom dengan "sama dengan".
 
 Untuk melakukan pencarian pada data penduduk dapat memasukan kata kunci pada  kolom pencarian yang terdapat pada pojok kanan atas dan tekan “Enter” pada keyboard untk mencari, berikut adalah tampilannya: 
 
