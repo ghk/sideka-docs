@@ -396,7 +396,7 @@ Pada Menu perencanaan, Bagian **"RKP (1-6)"**  klik tombol |tambah| untuk menamb
    
    Gambar 26 Halaman Perencanaan Tab RKP.
 
-2.1 Penganggaran
+2.2 Penganggaran
 ----------------------------------------------
 
 Pada Menu penganggaran, Bagian **"kegiatan"**  klik tombol |tambah| untuk mengisi kegiatan beserta anggaran per kegiatan.
@@ -415,9 +415,17 @@ Pada Menu penganggaran, Bagian **"rab"**  klik tombol |tambah| untuk mengisi RAB
    
    Gambar 26 Halaman RAB Kegiatan.
 
+2.3 Penatausahaan
+----------------------------------------------
+Terdapat 2 sub menu pada bagian penatausahaan yaitu **Penerimaan & SPP**. 
 
+Pada Halaman Utama klik menu **Penatausahaan, sub menu Penerimaan** Sub Menu Penerimaan Pengguna dapat menambahkan detail penerimaan dengan cara klik tombol |tambah| kemudian mengisi data penerimaan.
 
-
+.. figure:: images/sidekadesktop/penerimaan-tbp.png
+   :alt: Halaman Penerimaan
+   :align: center
+   
+   Gambar 26 Halaman Penerimaan.
 
 
 
