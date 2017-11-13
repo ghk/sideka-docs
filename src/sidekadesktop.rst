@@ -177,15 +177,15 @@ Masukan nama file, dan klik **“Save”** untuk menyimpan file
 1.2 Tambah data penduduk
 ------------------------
 
-Untuk menambahkan data penduduk dapat mengklik tanda **"tambah"**  dan baris akan muncul atau seperti berikut: 
+Untuk menambahkan data penduduk dapat klik kanan pada baris data kependudukan, kemudian pilih **insert row above"** tampilannya seperti berikut: 
 
 .. figure:: images/sidekadesktop/tambah-baris-data-penduduk.png
    :alt: Halaman Penambahan Baris Data Penduduk
    :align: center
    
-   Gambar 9 Halaman Penambahan Baris Data Penduduk.
+   Gambar 9 Halaman Tambah Data Penduduk.
 
-Masukan data pada kolom yang kosong atau mucul, dan klik **"simpan"** untuk menyimpan data yang telah ditambahkan. 
+Sistem akan menampilkan baris kosong yang kemudian dapat diisi dengan data penduduk baru. Klik tombol **"simpan"** untuk menyimpan perubahan. 
 
 Selain menambahkan data penduduk, data penduduk yang telah ditambahkan dapat dihapus dengan cara blok baris yang akan di hapus lalu klik kanan pada baris tersebut dan klik **“remove row”** untuk menghapus berikut tampilannya: 
 
