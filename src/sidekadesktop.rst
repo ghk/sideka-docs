@@ -187,7 +187,7 @@ Untuk menambahkan data penduduk dapat klik kanan pada baris data kependudukan, k
 
 Sistem akan menampilkan baris kosong yang kemudian dapat diisi dengan data penduduk baru. Klik tombol **"simpan"** untuk menyimpan perubahan. 
 
-Selain menambahkan data penduduk, data penduduk yang telah ditambahkan dapat dihapus dengan cara blok baris yang akan di hapus lalu klik kanan pada baris tersebut dan klik **“remove row”** untuk menghapus berikut tampilannya: 
+Data penduduk yang telah ditambahkan dapat dihapus dengan cara klik pada nomor baris yang akan di hapus lalu klik kanan pada baris tersebut dan klik **“remove row”** untuk menghapus berikut tampilannya: 
 
 .. figure:: images/sidekadesktop/hapus-baris-data-penduduk.png
    :alt: Halaman Hapus Baris Data Penduduk
@@ -200,21 +200,27 @@ Selain menambahkan data penduduk, data penduduk yang telah ditambahkan dapat dih
 
 Pembuatan surat dapat di lakukan dengan cara mengklik data penduduk yang akan dibuatkan surat, dan klik **"surat"** untuk pembuatan surat, berikut tampilannya: 
 
-.. figure:: images/sidekadesktop/cetak-surat.png
+.. figure:: images/sidekadesktop/menu-surat.png
    :alt: Halaman Cara Cetak Surat
    :align: center
    
    Gambar 11 Halaman Cara Cetak Surat.
 
-Halaman akan langsung di alihkan ke penyimpanan berkas seperti berikut: 
+Pilih dan klik template surat yang diinginkan kemudian isi form yang diperlukan. setelah selesai klik Cetak untuk menyimpan surat dalam bentuk Word.
+
+.. figure:: images/sidekadesktop/isi-surat.png
+   :alt: Halaman Isi Surat
+   :align: center
+   
+   Gambar 12 Halaman Isi Surat.
+
+Masukan nama file dan klik **“save”** untuk menyimpan berkas. 
 
 .. figure:: images/sidekadesktop/browse-cetak-surat.png
    :alt: Halaman Cetak Surat
    :align: center
    
-   Gambar 12 Halaman Cetak Surat.
-
-Masukan nama file dan klik **“save”** untuk menyimpan berkas. 
+   Gambar 13 Halaman Cetak Surat.
 
 1.4 Filtering dan pencarian data penduduk
 -----------------------------------------
