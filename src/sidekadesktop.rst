@@ -380,7 +380,7 @@ Pada Menu perencanaan, Bagian **"Renstra"**  klik tombol |tambah| untuk mengisi 
    
    Gambar 26 Halaman Perencanaan Tab Renstra.
 
-Pada Menu perencanaan, Bagian **"RPJM"**  klik tombol |tambah| untuk RPJM (Rencana Pembangunan Jangka Menengah)
+Pada Menu perencanaan, Bagian **"RPJM"**  klik tombol |tambah| untuk menambahkan RPJM (Rencana Pembangunan Jangka Menengah)
 
 .. figure:: images/sidekadesktop/rpjm.png
    :alt: Halaman Perencanaan Tab RPJM
@@ -388,6 +388,13 @@ Pada Menu perencanaan, Bagian **"RPJM"**  klik tombol |tambah| untuk RPJM (Renca
    
    Gambar 26 Halaman Perencanaan Tab RPJM.
 
+Pada Menu perencanaan, Bagian **"RKP (1-6)"**  klik tombol |tambah| untuk menambahkan RKP(Rencana Kegiatan Pembangunan)
+
+.. figure:: images/sidekadesktop/rkp.png
+   :alt: Halaman Perencanaan Tab RKP
+   :align: center
+   
+   Gambar 26 Halaman Perencanaan Tab RKP.
 
 Berikut adalah penjelasan masing-masing menu pada halaman apbdes:
 
