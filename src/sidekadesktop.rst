@@ -259,7 +259,7 @@ Untuk melakukan pencarian pada data penduduk, pengguna dapat memasukan kata kunc
 
 Pengelolaan data keluarga
 =========================
-Untuk Masuk ke menu Pengelolaan data keluarga dapat mengklik menu “Data Keluarga” pada halaman utama sideka, berikut tampilan dan penjelasan masing-masing menu pada halaman data keluarga: 
+Untuk melihat data keluarga dari suatu penduduk dapat dilakukan dengan cara pilih baris penduduk yang ingin ditampilkan data keluarganya, kemudian klik menu **"Keluarga"**.Berikut tampilan dan penjelasan masing-masing menu pada halaman data keluarga: 
 
 .. figure:: images/sidekadesktop/kelola-data-keluarga.png
    :alt: Halaman Pengelolaan Data Keluarga
@@ -267,36 +267,26 @@ Untuk Masuk ke menu Pengelolaan data keluarga dapat mengklik menu “Data Keluar
    
    Gambar 17 Halaman Pengelolaan Data Keluarga.
 
-.. |home| image:: images/sidekadesktop/home.png    
+.. |beranda| image:: images/sidekadesktop/beranda.png    
    :scale: 50%
    :align: center
 .. |simpan| image:: images/sidekadesktop/simpan.png
    :scale: 50%
    :align: center
-.. |kartukeluarga| image:: images/sidekadesktop/kartu-keluarga.png
+.. |info| image:: images/sidekadesktop/info.png
    :scale: 50%
    :align: center
-.. |undo| image:: images/sidekadesktop/undo.png
-   :scale: 50%
-   :align: center
-.. |redo| image:: images/sidekadesktop/redo.png
-   :scale: 50%
-   :align: center
-.. |export| image:: images/sidekadesktop/export.png
+.. |statistik| image:: images/sidekadesktop/statistik.png
    :scale: 50%
    :align: center
 
-|home| : Tombol Kembali ke halaman Administrator 
+|beranda| : Tombol Kembali ke halaman Utama
 
 |simpan| : Untuk Menyimpan Data Keluarga
 
-|kartukeluarga| : Untuk Membuat Salinan Kartu Keluarga
+|info| : Untuk melihat info file, versi dan perubahan lokal.
 
-|undo| : Undo / Mengembalikan Data ke sebelum di edit 
-
-|redo| : Redo / Mengembalikan Data ke setelah di edit
-
-|export| : Export Excel
+|statistik| : Untuk melihat statistik kependudukan dalam satu desa.
 
 1.5 Export Kartu Keluarga
 -------------------------
