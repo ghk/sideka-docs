@@ -349,21 +349,22 @@ Untuk melakukan pencarian pada data keluarga dapat memasukan kata kunci pada  ko
 
 Pengelolaan APBDes
 ==================
-Untuk melakukan pengelolaan data APBDes dapat mengklik menu “APBDes” pada halaman utama sideka. Jika apbdes belum pernah dibuat maka akan muncul halaman pembuatan apbdes seperti berikut :
+Untuk melakukan pengelolaan data APBDes dapat dilakukan dengan cara masuk menu konfigurasi, kemudian pilih tab **"Siskeudes"** pengguna dapat mengimport database dari aplikasi SISKEUDES yaitu file yang berk ekstensi .mde kemudian mengunggahnya kedalam SiDeka.
 
-.. figure:: images/sidekadesktop/kelola-apbdes.png
-   :alt: Halaman Pengelolaan APBDes
+.. figure:: images/sidekadesktop/konfigurasi-siskeudes.png
+   :alt: Konfigurasi Siskeudes
    :align: center
    
-   Gambar 24 Halaman Pengelolaan APBDes.
+   Gambar 24 Konfigurasi Siskeudes.
 
-Klik “Buat APBDes Baru” Masukan tahun apbdes yang akan dibuat pada halaman seperti berikut: 
+Apabila tidak mempunya file .mde dari Siskeudes pengguna dapat membuat database baru dengan cara klik **"Buat Database Baru"** kemudian mengisi kolom yang diperlukan.
 
-.. figure:: images/sidekadesktop/tambah-tahun-apbdes.png
-   :alt: Halaman Penambahan Tahun Anggaran APBDes
+.. figure:: images/sidekadesktop/konfigurasi-siskeudes-buatbaru.png
+   :alt: Buat Database Baru
    :align: center
    
-   Gambar 25 Halaman Penambahan Tahun Anggaran APBDes.
+   Gambar 25 Buat Database Baru.
+
 
 Masukan tahun anggaran dan centang jika apbdes merupakan apbdes perubahan, klik “mulai buat apbdes” untuk membuat apbdes. Berikut adalah halaman awal pembuatan apbdes:
 
