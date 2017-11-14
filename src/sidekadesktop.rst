@@ -419,13 +419,21 @@ Pada Menu penganggaran, Bagian **"rab"**  klik tombol |tambah| untuk mengisi RAB
 ----------------------------------------------
 Terdapat 2 sub menu pada bagian penatausahaan yaitu **Penerimaan & SPP**. 
 
-Pada Halaman Utama klik menu **Penatausahaan, sub menu Penerimaan** Sub Menu Penerimaan Pengguna dapat menambahkan detail penerimaan dengan cara klik tombol |tambah| kemudian mengisi data penerimaan.
+Pada Halaman Utama klik menu **Penatausahaan, sub menu Penerimaan** pengguna dapat menambahkan detail penerimaan dengan cara klik tombol |tambah| kemudian mengisi data penerimaan.
 
 .. figure:: images/sidekadesktop/penerimaan-tbp.png
    :alt: Halaman Penerimaan
    :align: center
    
    Gambar 26 Halaman Penerimaan.
+
+Pada Halaman Utama klik menu **Penatausahaan, sub menu SPP** pengguna dapat menambahkan detail SPP dengan cara klik tombol |tambah| kemudian mengisi data SPP.
+
+.. figure:: images/sidekadesktop/penerimaan-spp.png
+   :alt: Halaman SPP
+   :align: center
+   
+   Gambar 26 Halaman SPP.
 
 
 
