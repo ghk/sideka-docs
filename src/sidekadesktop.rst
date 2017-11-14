@@ -59,6 +59,9 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
    
    Gambar 5 Halaman Pengelolaan Kependudukan. 
 
+.. |cetak| image:: images/sidekadesktop/cetak.png
+   :scale: 50%
+   :align: middle
 .. |tambah| image:: images/sidekadesktop/tambah.png
    :scale: 50%
    :align: middle
@@ -348,6 +351,29 @@ Untuk melakukan pencarian pada data keluarga dapat memasukan kata kunci pada  ko
    :align: center
    
    Gambar 23 Pencarian Data Keluarga.
+Pemetaan
+==================
+Pada pemetaan terdapat 6 kategori yaitu Jaringan Transportasi, Batas Administrasi, Perairan, Penggunaan Lahan, Sarana Prasarana, Log Pembangunan.
+
+2.1 Import Peta
+----------------------------------------------
+Untuk mengimport peta dapat dilakukan dengan cara klik tombol |import| kemudian pilih indikator, pilih file peta sesuai dengan indokatornya dan klik tombol impor
+
+.. figure:: images/sidekadesktop/import-pemetaan.png
+   :alt: Import Peta
+   :align: center
+   
+   Gambar 25 Import Peta.
+
+2.2 Cetak Peta
+----------------------------------------------
+Untuk mencetak peta dapat dilakukan dengan cara klik tombol |cetak| kemudian, sistem akan menampilkan preview dari peta desa. klik tombol |cetak| yang terdapat pada kiri atas layar, tentukan tempat penyimpanan file kemudian klik tombol **save** untuk menyimpan peta dalam bentuk PDF.
+
+.. figure:: images/sidekadesktop/cetak-pemetaan.png
+   :alt: Cetak Peta
+   :align: center
+   
+   Gambar 25 Cetak Peta.
 
 Pengelolaan Keuangan
 ==================
@@ -369,7 +395,7 @@ Apabila tidak mempunya file .mde dari Siskeudes pengguna dapat membuat database 
 
 Beri centang untuk Sinkronisasi Automatis kemudian Klik tombol |simpan| untuk menyimpan perubahan.
 
-2.1 Perencanaan
+3.1 Perencanaan
 ----------------------------------------------
 
 Pada Menu perencanaan, Bagian **"Renstra"**  klik tombol |tambah| untuk mengisi visi, misi, sasaran,& Tujuan
@@ -396,7 +422,7 @@ Pada Menu perencanaan, Bagian **"RKP (1-6)"**  klik tombol |tambah| untuk menamb
    
    Gambar 26 Halaman Perencanaan Tab RKP.
 
-2.2 Penganggaran
+3.2 Penganggaran
 ----------------------------------------------
 
 Pada Menu penganggaran, Bagian **"kegiatan"**  klik tombol |tambah| untuk mengisi kegiatan beserta anggaran per kegiatan.
@@ -415,7 +441,7 @@ Pada Menu penganggaran, Bagian **"rab"**  klik tombol |tambah| untuk mengisi RAB
    
    Gambar 26 Halaman RAB Kegiatan.
 
-2.3 Penatausahaan
+3.3 Penatausahaan
 ----------------------------------------------
 Terdapat 2 sub menu pada bagian penatausahaan yaitu **Penerimaan & SPP**. 
 
