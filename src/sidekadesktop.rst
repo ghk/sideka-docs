@@ -59,6 +59,12 @@ Untuk Masuk Ke menu Kependudukan Klik menu “Data Penduduk” pada halaman utam
    
    Gambar 5 Halaman Pengelolaan Kependudukan. 
 
+.. |editgeojson| image:: images/sidekadesktop/editgeojson.png
+   :scale: 50%
+   :align: middle
+.. |geojson| image:: images/sidekadesktop/geojson.png
+   :scale: 50%
+   :align: middle
 .. |cetak| image:: images/sidekadesktop/cetak.png
    :scale: 50%
    :align: middle
@@ -365,6 +371,24 @@ Untuk mengimport peta dapat dilakukan dengan cara klik tombol |import| kemudian 
    
    Gambar 25 Import Peta.
 
+2.2 Mengubah peta
+----------------------------------------------
+Untuk mengubah peta dapat menggunakan editor online yaitu http://geojson.io langkah yang dilakukan adalah, klik kiri pada bagian yang akan di edit tekan CTRL+X untuk memotong bagian yang akan diubah, kemudian klik tombol |geojson| setelah halaman web geojson.io terbuka tekan CTRL+V pada bagian kanan layar. pada toolbar geojson klik |editgeojson| untuk mulai mengedit. setelah selesai pilih save kemudian copy semua data json dengan menekan CTRL+A &  CTRL+C
+
+.. figure:: images/sidekadesktop/geojson-pemetaan.png
+   :alt: Ubah Peta
+   :align: center
+   
+   Gambar 25 Ubah Peta.
+
+kembali ke aplikasi sidekakemudian tekan CTRL+V untuk menaruh potongan peta yang sudah diubah.
+
+.. figure:: images/sidekadesktop/geojsonpaste-pemetaan.png
+   :alt: Hasil Ubah Peta
+   :align: center
+   
+   Gambar 25 Hasil Ubah Peta.
+
 2.2 Cetak Peta
 ----------------------------------------------
 Untuk mencetak peta dapat dilakukan dengan cara klik tombol |cetak| kemudian, sistem akan menampilkan preview dari peta desa. klik tombol |cetak| yang terdapat pada kiri atas layar, tentukan tempat penyimpanan file kemudian klik tombol **save** untuk menyimpan peta dalam bentuk PDF.
@@ -374,6 +398,16 @@ Untuk mencetak peta dapat dilakukan dengan cara klik tombol |cetak| kemudian, si
    :align: center
    
    Gambar 25 Cetak Peta.
+
+2.3 Latar Belakang Peta
+----------------------------------------------
+Bila diperlukan pengguna dapat memasukkan latar belakang pada peta saat ini tersedia 4 pilihan latar yaitu : Open Street Map, Open Topo Map, ESRI Imagery, & Mapbox Satellite.
+
+.. figure:: images/sidekadesktop/latar-pemetaan.png
+   :alt: Latar Belakang Peta
+   :align: center
+   
+   Gambar 25 Latar Belakang Peta.
 
 Pengelolaan Keuangan
 ==================
