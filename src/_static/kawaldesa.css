@@ -34,3 +34,40 @@ div.video {
 	text-align: center;
 	margin: 40px 0;
 }
+
+h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend {
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+body {
+    font-family: 'Titillium Web', sans-serif !important;
+}
+
+.wy-side-nav-search {
+	background-color: #f0f0f0;
+}
+
+a {
+	color: #4075a4;
+}
+
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+	color: #4075a4;
+}
+
+.wy-side-nav-search > div.version {
+	color: #000;
+}
+.wy-nav-top {
+        background-color: #f0f0f0;
+	    color: #407fa4;
+}
+
+.wy-nav-top a {
+	    color: #407fa4;
+	    font-weight: normal;
+}
+
+.wy-nav-top i {
+	margin-top: 10px;
+}
