@@ -101,6 +101,8 @@ Masukan judul berita dan isi Berita, selanjutnya pilih kategori berita seperti y
 
    Gambar 9 Kategori Berita
 
+
+
 Centang kotak yang terdapat di sebelah kategori berita. Selanjutnya klik “Buat Gambar utama” untuk menambahkan gambar pada posting berita, berikut tampilannya:
 
 .. figure:: images/sidekaweb/pilih-gambar-utama.png
@@ -126,7 +128,6 @@ selanjutnya klik pilih gambar yang disimpan lalu klik **“open”** untuk memil
    Gambar 12 Pemilihan gambar pada local directory / Media
 
 Jika form sudah terisi semua selanjutnya klik Terbitkan untuk menerbitkan berit atau seperti gambar berikut:
-
 
 .. figure:: images/sidekaweb/form-penerbitan-berita.png
    :alt: Form Penerbitan Berita
@@ -212,6 +213,48 @@ Untuk membuat Halam klik “Laman” di menu administrator, lalu klik “Tambah 
    :align: center
 
    Gambar 20 Penambahan Halaman Baru
+
+Posting Kegiatan
+------------------
+Klik menu Kegiatan pada dashboard sideka admin, dan klik **“Tambah Baru”** untuk membuat kegiatan baru seperti yang ditunjukan pada gambar berikut:
+
+.. figure:: images/sidekaweb/kegiatan-baru.png
+   :alt: Menu Membuat Berita Baru
+   :align: center
+
+   Gambar 7 Menu Membuat Kegiatan Baru
+
+Halaman akan langsung di alihkan ke halaman berikut:
+
+.. figure:: images/sidekaweb/tambah-kegiatan-baru.png
+   :alt: Form Pembuatan kegiatan Baru
+   :align: center
+
+   Gambar 8 Form Pembuatan Kegiatan Baru
+
+Masukan judul berita dan isi Berita, selanjutnya pilih kategori berita seperti yang ditunjukan pada gambar berikut:
+
+.. figure:: images/sidekaweb/kategori-kegiatan.png
+   :alt: Form Kategori berita
+   :align: center
+   
+   Gambar 9 Form Memilih Kategori Kegiatan
+   
+Setelah itu, isikan waktu dan tanggal kegiatan itu berlangsung, tempat kegiatan berlangsung dan penyelenggara kegiatan. seperti pada gambar berikut :
+
+.. figure:: images/sidekaweb/kalender-kegiatan.png
+   :alt: Form Kalender Kegiatan
+   :align: center
+   
+   Gambar 10 Form Pengeditan Kalender Kegiatan
+   
+Untuk selanjutnya di pengaturan kegiatan centang di salah satu pilihan untuk menerapkan pengaturan pada kegiatan yang baru di tambahkan. seperti pada gambar berikut :
+
+.. figure:: images/sidekaweb/pengaturan-kegiatan.png
+   :alt: Form pengaturan Kegiatan
+   :align: center
+   
+   Gambar 11 Form pengaturan Kegiatan
 
 Menampilkan Halaman di Menu
 -------------------------------
