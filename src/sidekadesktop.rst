@@ -166,7 +166,13 @@ Untuk melakukan import data dapat mengklik tanda |browse| atau mengklik tanda |i
    
    Gambar 6 Halaman Pemilihan Berkas Data Penduduk.
 
-Pilih berkas yang akan di import dan klik open untuk mengimport berkas, berikut adalah hasil import dari excel: 
+Setelah di pilih maka akan muncul tampilan untuk konfirmasi import, berikut tampilan konfirmasi import data penduduk :
+
+.. figure:: images/sidekadesktop/konfirmasi.png
+   :alt: Halaman Konfirmasi Import Data Penduduk
+   :align: center
+
+Tombol Batal untuk membatalkan impor data, tombol Impor untuk mengimpor data, tombol Impor & Hapus Data Lama untuk mengimpor dan menghapus data lama atau data yang sebelumnya pernah di impor atau pernah di input, dan tombol Impor & gabungkan untuk mengimpor data dan menggabungkan dengan data yang sebelumnya di impor atau di input. Berikut adalah hasil import dari excel: 
 
 .. figure:: images/sidekadesktop/tabel-data-penduduk.png
    :alt: Tabel Data Penduduk
